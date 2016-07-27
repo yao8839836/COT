@@ -1,0 +1,57 @@
+Cities in Miyagi Prefecture 0.16456363951828482
+Earthquake engineering 0.07389984425605955
+Flood 0.08552070919018023
+Forms of water 0.13575250606886874
+Geological hazards 0.11085755084375237
+Fukushima Prefecture 0.07273913689331177
+Prefectures of Japan 0.2064096013473052
+T¨­hoku region 0.15150328413806208
+1951 establishments in Japan 0.08788387450132597
+Companies based in Tokyo 0.08786122480016023
+Companies established in 1951 0.0760343615364812
+Companies listed on the Osaka Securities Exchange 0.11237246362186254
+Companies listed on the Tokyo Stock Exchange 0.08875752617235827
+Nikkei 225 0.12516258309132933
+Nuclear power companies of Japan 0.09056467129014978
+Actinides 0.095983835309071
+Nuclear power plant components 0.1251957391514148
+Radioactive waste 0.15043467149607131
+Waste treatment technology 0.09841101814488912
+1871 establishments in Japan 0.14002013453774995
+Miyagi Prefecture 0.05405287501859582
+Nuclear fuels 0.13430598777439762
+Nuclear reprocessing 0.08367693937455857
+
+
+
+
+Nuclear reactor technology 15.369641294683364
+Sendai 12.990363836638586
+Tsunami 11.896320585114912
+Fukushima Prefecture 13.68383393958187
+Tokyo Electric Power Company 15.867949105637003
+Nuclear fuel 16.384790010291375
+Japan 8.685913330272195
+Spent fuel pool 16.644814218177515
+Miyagi Prefecture 13.784097330606894
+Spent nuclear fuel 16.75920040764567
+Yukio Edano 15.53064646865773
+Radiation 14.5709091682355
+Nuclear power 14.702606398419357
+Nuclear and Industrial Safety Agency 15.883079273264926
+Iodine-131 16.59131085879329
+Potassium iodide 15.2385766845775
+Chernobyl disaster 15.937390399183617
+Sievert 16.32704502633629
+Nuclear reactor core 16.078400722934354
+Plant 9.471395730173414
+Minamisanriku, Miyagi 13.070516905310999
+Tokyo 9.798192698948993
+Radioactive decay 15.439067686556116
+Kesennuma, Miyagi 13.49153365007119
+Nuclear weapon 13.194623445990798
+Caesium-137 16.67894381500079
+Earthquake 10.20442637524092
+Fukushima Daiichi Nuclear Power Plant 17.58447956635615
+Nuclear and radiation accidents 16.833286792955832
+Sendai Airport 13.521940806393307

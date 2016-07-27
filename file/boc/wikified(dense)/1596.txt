@@ -1,0 +1,80 @@
+Android (operating system) 0.8287861636544571
+IPhone 0.7968778757109367
+National Football Conference 0.6121435282504295
+Radar 0.5680941401207991
+American Foursquare 0.21928590499468056
+Application software 0.12531827788015618
+Near field communication 0.7928655236508568
+National Football Conference 0.6779756511500186
+Near and far field 0.5073655649028357
+Wave 0.26354845304620417
+Data 0.26038612566335234
+Tap dance 0.12528201661279167
+Communication 0.09345601206292042
+National Football Conference 0.6121435282504295
+Android (operating system) 0.5121662076979411
+American Foursquare 0.21928590499468056
+Application software 0.10930332936560323
+Venue (magazine) 0.04797766423858705
+Android (operating system) 0.8045337321229704
+Marketing 0.7971461726416355
+National Football Conference 0.34803241632093274
+Rebranding 0.21718211951662428
+Beam (nautical) 0.16079483712561218
+Android (operating system) 0.6840881424615773
+National Football Conference 0.6121435282504295
+Web page 0.30913602288319203
+Android (operating system) 0.835539790768078
+Mobile operating system 0.8175845620994615
+Operating system 0.7368200983392252
+Application programming interface 0.31136979693529654
+Near field communication 0.30242487453597655
+Video game developer 0.2402820166127917
+Mobile phone 0.2107931925444438
+Application software 0.14919868429609728
+Android (operating system) 0.6468268726984443
+Foursquare (website) 0.5714221312923929
+Tapping 0.5306608329320295
+National Football Conference 0.4551735687325512
+National Football Conference 0.37322309411742494
+Poster 0.1714717868020076
+Tag (game) 0.16079483712561218
+Tap dance 0.14967999136085613
+Android (operating system) 0.6090695116422675
+National Football Conference 0.3539714008559793
+Ice cream 0.3468224490936457
+Sandwich 0.2716696359466401
+Cream (band) 0.2635056861706914
+Integrated circuit 0.149166930148868
+Nexus (magazine) 0.2118760898576731
+Galaxy 0.07744661258983579
+Technology 0.2974393025942696
+Foursquare (website) 0.5714221312923929
+Android (operating system) 0.5426617446519763
+Niche (architecture) 0.34736118215551803
+National Football Conference 0.6817087456417338
+Mobile, Alabama 0.570054772325969
+Foursquare (website) 0.552789507322129
+Application software 0.1073695599314382
+News 0.4383020297610941
+Technology 0.22402561173241048
+Good news (Christianity) 0.14616436955396814
+National Football Conference 0.28504772158660724
+Railway platform 0.23915038755168022
+IOS (Apple) 0.7513991910114273
+Mean 0.7423652494288275
+Android (operating system) 0.534080590943628
+User experience 0.752775813225641
+Tap dance 0.3326605677198648
+Check-in 0.3105756409921108
+Shaving 0.3452153386066378
+Check-in 0.26463167233847107
+Application programming interface 0.20088168064947692
+Native plant 0.18086278184319196
+User experience 0.1677231473309422
+Computing platform 0.08064758070687778
+Leverage (finance) 0.07596271595521145
+Integrated circuit 0.292338902877742
+National Football Conference 0.27964105864225586
+Leverage (finance) 0.2645036758329232
+Hat 0.6329837641143

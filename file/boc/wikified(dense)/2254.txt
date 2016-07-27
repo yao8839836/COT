@@ -1,0 +1,54 @@
+IOS (Apple) 0.7092971287545826
+Android (operating system) 0.6250726710177721
+Apple Inc. 0.5348519146385478
+Button (computing) 0.08064758070687778
+X Window System 0.04797766423858705
+IOS (Apple) 0.7105730710756555
+Railway platform 0.2286541096360475
+Network switch 0.14616436955396814
+Android (operating system) 0.5121662076979411
+Phone-in 0.19249068881993617
+Order (biology) 0.149166930148868
+Android (operating system) 0.7333330224751147
+Application programming interface 0.690440951033681
+Brand 0.6396014001177177
+Application software 0.1123695599314382
+Application programming interface 0.6063404605669481
+Application software 0.5205647032699148
+Message 0.2656052606637819
+Application software 0.11903622659810491
+Software developer 0.1183291657627165
+Home page 0.08808589196632148
+Application programming interface 0.6452478171765984
+Android (operating system) 0.5974139242769614
+Chief executive officer 0.39643395147160265
+Source lines of code 0.2860332569622445
+Racial integration 0.19249068881993617
+Code 0.1886406143593943
+Road 0.14028201661279166
+Application software 0.09538044781399854
+IOS (Apple) 0.7105730710756555
+Android (operating system) 0.534080590943628
+Icon 0.2249564958256574
+Interactivity 0.19748196248196248
+Default (finance) 0.04797766423858705
+Android (operating system) 0.8634346408452339
+Application software 0.5205647032699148
+Preview (theatre) 0.4972877524745501
+Email 0.38308215549751184
+SMS 0.28872344851106757
+Android (operating system) 0.7960740473324663
+Love 0.24110756165733344
+Application software 0.11903622659810491
+Application programming interface 0.6452478171765984
+Court 0.22334199235231939
+Application software 0.6446896412094723
+Android (operating system) 0.534080590943628
+Android Market 0.3392941270169685
+System integration 0.20038044781399855
+Application software 0.12129244148304294
+Application programming interface 0.6757066515167727
+Application software 0.1123695599314382
+Software developer 0.09906010149365224
+Android (operating system) 0.8345173463015385
+Android Market 0.5157453735842498

@@ -1,0 +1,50 @@
+Mobile application development 0.3173123160813204
+Internationalization and localization 0.26859221039046355
+Application software 0.12129244148304294
+Mobile phone 0.11430332936560325
+Computing platform 0.08564758070687775
+Second 0.21196077944240815
+IOS (Apple) 0.7683339269010327
+Android (operating system) 0.6250726710177721
+Ireland 0.4860161960968413
+Software developer 0.15416693014886798
+Translation 0.1214430250499334
+Application software 0.10930332936560323
+Internationalization and localization 0.3685922103904635
+Language 0.2887364229710162
+DVD region code 0.18273053856682975
+Computing platform 0.14028201661279166
+Translation 0.1334321371673731
+Community 0.07596271595521145
+Video game developer 0.04797766423858705
+Regions of France 0.04797766423858705
+Translation 0.28711351320651723
+Application software 0.10038044781399853
+Translation 0.16193003711688594
+Software developer 0.15416693014886798
+Application software 0.15249827865662208
+Startup company 0.416742757308257
+Racial integration 0.2683802889300607
+Cloud 0.20849782300157088
+Application software 0.17278394924305185
+Uploading and downloading 0.18536553527502814
+Application software 0.1073695599314382
+Computing platform 0.08064758070687778
+Internationalization and localization 0.07765654271506399
+Application software 0.6961024290838961
+Uploading and downloading 0.2583195954608946
+Pricing 0.616072303073957
+South Korea 0.6990017397001453
+Mobile application development 0.662054772325969
+China 0.42523463398129396
+Mobile phone 0.3711148209677265
+App Store (iOS) 0.366311018559466
+Korea 0.33641548883084516
+Internationalization and localization 0.2533802889300607
+Application software 0.24916693014886798
+Translation 0.1609167092604597
+Software developer 0.16079483712561218
+Mobile application development 0.15906397475302125
+Mobile phone 0.11200881944237018
+Application software 0.1073695599314382
+Explosion 0.04797766423858705

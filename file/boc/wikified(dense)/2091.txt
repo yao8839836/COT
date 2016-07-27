@@ -1,0 +1,55 @@
+Yes (band) 0.7686471306557824
+Startup company 0.39531418587968553
+Mobile phone 0.24413689227502702
+Software developer 0.09619858354046454
+Professional wrestling aerial techniques 0.04797766423858705
+Android (operating system) 0.8441454759038949
+Digital footprint 0.6749885057471265
+Search engine optimization 0.6623551528856048
+App Store (iOS) 0.4957453735842498
+Android Market 0.419562196239907
+Application software 0.2780333139641318
+Mobile application development 0.2618103028770546
+Mobile phone 0.16714740224481522
+Software developer 0.16079483712561218
+New Hellenic Television 0.2235741375956098
+Anguttara Nikaya 0.13400374153751277
+Hotel Employees and Restaurant Employees Union 0.04797766423858705
+Example (musician) 0.04797766423858705
+Right Here (SWV song) 0.04721807836896528
+Today (NBC program) 0.2255571589277822
+Application software 0.12129244148304294
+Facebook 0.5435367883741167
+Application software 0.1630898117004727
+Software developer 0.16079483712561218
+Mobile phone 0.1495350029362956
+Suite 0.07596271595521145
+Product (chemistry) 0.04797766423858705
+Facebook 0.5435367883741167
+Chief executive officer 0.41179325883091
+Application software 0.18459750692565485
+Software developer 0.149166930148868
+Mobile phone 0.10288141794369184
+Dalton, Georgia 0.06388633499755905
+Screenshot 0.6922124392204779
+Facebook 0.6871381909303886
+Facebook Platform 0.5542768645118794
+Software developer 0.32867991716185496
+Carousel 0.3126830763308756
+Application software 0.14510220363182386
+Facebook 0.5435367883741167
+Mobile application development 0.33181329504003
+Application software 0.2253182778801562
+Mobile phone 0.11200881944237018
+Channel (communications) 0.4362946051863522
+Communication 0.26901548458098423
+Brand 0.19249068881993617
+Application software 0.16079483712561218
+VEVO 0.8537830043806259
+The Muppets 0.7435410493019722
+Billboard (magazine) 0.4668956760824548
+Application software 0.09619858354046454
+Ship naming and launching 0.04797766423858705
+Caldwell, Kansas 0.06388633499755905
+Standardization 0.09906010149365224
+Pricing 0.06765654271506397
