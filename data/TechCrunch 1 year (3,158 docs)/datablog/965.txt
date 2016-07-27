@@ -1,0 +1,17 @@
+Its a bit hard to officially review the Nook Simple Touch with GlowLight as its almost exactly the same as the previous version but with one important improvement: it glows.Arguably, the Nook and the Kindle are equal contenders in the race to the e-reader throne and although I do prefer the Kindle Fire over the Nook Tablet, I feel the Nook Simple Touch is still an excellent choice and one of the best e-readers on the market. Luckily, it just got better.How does it work? When you hold down the Nook button, the internal backlight smoothly winks on, offering a bright black-and-white reading surface. The backlit text and images are crisp and clear and the device is finally readable at night. In short, if youre a frequent traveler or someone who often reads in the dark and you dont want the harsh glare of an iPad or tablet device, this is the Nook for you.Using the backlight reduces the battery life from 2 months to 1 month and the light adds $40 to the price of the device ($99 for the original vs. $139). All of the other features are the same  the store, the Wi-Fi connection, the ability to take notes and share chunks of text.Should you buy this version of the Nook over the previous, non-backlit version? If you have the money, I think the added cost is worth the investment. Youll also want to remember that a similarly outfitted Kindle is definitely in the works so soon fans of Amazon will be able to grab a similar e-reader.As it stands, however, the new Nook Simple Touch is definitely a fly.
+
+	
+	WP_SLIDESHOW_IMAGES = {
+		load: 'http://s1.wp.com/wp-content/mu-plugins/slideshow/slideshow-loader.gif?m=1289605033g',
+	};
+	WP_SLIDESHOW_LABELS = {
+		next: 'Next',
+		prev: 'Previous',
+		stop: 'Toggle Playback'
+	};
+	WP_SLIDESHOW_BLOG_INFO = {
+		blogId: '24588526',
+		subDomain: 'tctechcrunch2011',
+		userId: '0'
+	};
+	This slideshow requires JavaScript.

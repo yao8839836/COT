@@ -1,0 +1,18 @@
+Its hard when youre new to a city and have no friends. When I visit a new city I tend to hide in trees and behind garbage bins and watch people from afar, seeing where they go to eat and socialize. Then I go to those places at night, when theyre closed, and sniff the air for their scent. However, Drumo offers an improved method for finding out specific things about a city using Quora-style discussion connected to geodata of major metropolitan areas.As it stands, the service is limited to Sydney, Singapore, and Tokyo, thus limiting your choices. However, it is still in beta and looks to be an interesting way to figure things out on the ground. For example, you can ask about sushi restaurants and the best watch shops and get real answers from real people. Youre rewarded with points and badges for correct answers and there are tie-ins with local businesses.
+The questions range from the mundane to the fairly urgent and it seems sparsely populated right now by friends of the devs. However, the design is whimsical and cute and the service, on the surface, seems useful.Australias Design Royale built and funded the app and there is no current public investment. Theyre growing the service slowly but surely and they should be adding new cities, including Osaka and Hong Kong, over the next few months. There is an iPhone app available now and an Android app forthcoming.Now I can satisfy my sinister urges with the help of hundreds of willing volunteers and, given the Quora-like interface, I can now find locations with outdoor seating to sniff. That, my friends, is what the Internet was made for.
+
+	
+	WP_SLIDESHOW_IMAGES = {
+		load: 'http://s1.wp.com/wp-content/mu-plugins/slideshow/slideshow-loader.gif?m=1289605033g',
+	};
+	WP_SLIDESHOW_LABELS = {
+		next: 'Next',
+		prev: 'Previous',
+		stop: 'Toggle Playback'
+	};
+	WP_SLIDESHOW_BLOG_INFO = {
+		blogId: '24588526',
+		subDomain: 'tctechcrunch2011',
+		userId: '0'
+	};
+	This slideshow requires JavaScript.

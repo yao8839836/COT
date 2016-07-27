@@ -1,0 +1,35 @@
+The sun has set on our first ever TechCrunch Disrupt conference outside U.S. soil.  The Beijing event ended this past Tuesday, as OrderWithMe won the Disrupt Cup.  With the 12 to 15 hour time difference between the U.S. and China, watching it live wasnt the easiest option.  We produced more than 60 videos. But heres a look at some of the highlights you might have missed:Disrupt Cup Winner OrderWithMes Demo
+		
+OrderWithMe won the Disrupt Cup, emerging to victory from a field of 15 companies. Learn more about their business model, offering wholesale group buying to small businesses and watch a backstage interview with the winners.Pony Ma, Founder and CEO of Tencent
+		
+Tencent is Chinas largest and most used internet services portal.  Read more about this rare interview with Tencent Founder Pony Ma.Lei Jun, Co-Founder of Xiaomi, On How He Plans To Take On Apple In The Mobile Phone Industry
+		
+Lei Jun is one of the most successful entrepreneurs in China.  Read more about Xiaomi Techs ambitious goals.Kai-Fu Lee on his start-up incubator InnovationWorks
+		
+InnovationWorks is a Chinese incubator that helps early stage Chinese internet companies.  Read more on what they looking for when making investment decisions.Cheezburger CEO Ben Huh: An Entrepreneur is Someone Who Doesnt Understand The Word No
+		
+Ben Huh, CEO of icanhascheezburger.com, gave a powerful and inspirational talk on internet culture and entrepreneurship.  He also explained his mission to make everyone in the world happy for five minutes a day.  Read more.Phil Libin, Evernote CEO on How Freemium Products Can Work
+		
+Evernote CEO, Phil Libin, spoke about building a successful freemium product that people will love and will eventually give you money without you having to ask.TechCrunch Staffer Greg Barto Spins Around In A Barrel
+		
+The TechCrunch team and local partners had some time to explore adventures in Beijing.  Heres a ride Greg wont ever forget.You can find all the Beijing Disrupt videos here and all the posts here. More news from Disrupt can be found in our posts on the Complete Guide to Disrupt Beijing Day 1 and Day 2.In addition to our regular Disrupt Music, which you can download here, we added a new track just for China.  [download link]
+				
+					
+					
+					
+					
+					
+					
+									
+					
+						Download: techcrunch-disrupt-beijing.mp3
+					
+				
+				
+							
+			// */
+
+
+jQuery(document).ready(function($){ Gravatar.profile_cb = function( h, d ) { WPGroHo.syncProfileData( h, d );	}; Gravatar.my_hash = WPGroHo.my_hash; Gravatar.init( 'body', '#wp-admin-bar-my-account' ); });	
+	
+	

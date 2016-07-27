@@ -1,0 +1,15 @@
+There are plenty of observations to be made about Y Combinators Demo Day. Its the biggest ever, with 66 companies in this Winter class. Its more diverse than past years, with many companies being led by women and people of color. And the audience, packed in at the Computer History Museum, is about as high-quality as you get at these sorts of things. Its full of Silicon Valley elite, plus other investors and executives who have flown in from around the country and the world.But the thing that is sticking out the most is the nature of the products being launched. Out of the 39 companies presenting on the record today, 15 are mobile-first by my count.This shouldnt be surprising, I suppose. Study after study is showing that feature phones, iPhones and Androids combine to reach millions more people than the web. And lots of top technologists are declaring that the companies of the future are going to be mobile before they hit the web.Still, Y Combinator began in 2005, before smartphones were mainstream. The seed-stage firm helped pioneer the idea of the ambitious online startup done on the cheap. I know, I was there in 2007 and my class was almost entirely in that category. And, to date, most of its best-known companies have been web-centric  from Reddit to Dropbox to AirBnb.The shift so visible today has been building over the last couple of years; before, there were only a few outliers, like recently-acquired location company Loopt. Partner Harj Taggar says startups like note-syncing startup Simplenote helped kick off the trend back in 2010. The Android explosion, he says, has made the mobile focus particularly attractive.The companies today are also noticeably practical  these are not just games and simple utilities. PlanGrid is providing blueprints to construction sites via iPads, and is starting to blow up since launching at the beginning of the month. Medigram is a HIPAA-compliant messaging app for hospitals. It hopes to one day connect all vital medical information via devices to doctors making split-second decisions that can save lives.I suspect the next few classes of YC companies are going to be even more about mobile. Maybe the next one will pass the 50% mark? And with that, here are the 15 mobile-centric companies, in order of stage appearance today. Some havent presented yet, so Ill update the list with any clarifications as I get a closer look at them.Plangrid  blueprints on tablets
+ Medigram  chat for doctors
+ Popset  group photo albums
+ SendHub  SMS for organizations
+ Lvl6  social mobile games
+ Midnox  video camera app + hosting
+ Sonalight  voice texting (while driving)
+ Flypad  smartphone as game controller
+ TiKL  walkie-talkie app
+ Kyte  kid phone in software
+ Pair  messaging for couples
+ Per Vices  software-defined radio
+ iCracked  tablet repair network
+ Socialcam  video sharing
+ Exec  Uber for workOur coverage today:

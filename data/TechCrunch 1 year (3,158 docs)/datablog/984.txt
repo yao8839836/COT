@@ -1,0 +1,22 @@
+Recognizable, fast-loading, but outdated as hell website seeks Senior UI / Usability / Front End Engineer. Love it or hate it, Craigslists design could provide a better experience, and apparently Craig thinks so too, as this weekend the site posted a job opening for someone to make it faster, friendlier, and easier. Its hoping for a brave designer who can develop new products and features that will have CL users swooning, optimize internal team tools, and who has mobile app design and platform support skills.Theres plenty of tweaks wed appreciate like more consistent navigation controls and better use of whitespace. But dont expect Craigslist to ditch its famously minimal facade thats helped it climb to 50 million classified postings and 30 billion page views a month.Its been almost two years since Craigslist made any significant change to its interface, and even that was subtle. The site has looked largely the same for a decade now. While its massive community and network effect protect it from disruption, task marketplaces like Zaarly and lodging locators like Airbnb are starting to nip at its heels. Maybe its finally time give the site a little polish, even if the text-heavy look remains.Weve reached out to founder Craig Newmark for details about what the usability engineer would be working on. Heres the full job posting, bolded for fun and usability:craigslist needs hands-on Senior UI/Front-End/Usability Engineers to:- improve the craigslist user experience  faster, friendlier and easier;
+- develop new products and features that will have CL users swooning;
+- optimize internal team tools for efficiency and effectiveness;
+- integrate new front-end technologies wherever appropriate; and
+- solve interesting tech issues at billion-page-view-per-day scaleSuccessful candidates will know more about front-end technologies than any of us do, based on been-there-done-that work experience, and will be able to communicate that knowledge and experience effectively. Experience with as many of the following as possible will be helpful:- highly-optimized web interaction design;
+- HTML, CSS, javascript, jquery, ajax;
+- perl & other scripting languages;
+- Apache, mod_perl;
+- C, C++;
+- cross-browser development and troubleshooting;
+- current UI libraries and frameworks;
+- large scale, big traffic, high performance websites;
+- website security, cross-site scripting & other vulnerabilities;
+- API design and maintenance;
+- mobile app design, supporting mobile platforms;
+- integrated mapping technologies; and
+- expert troubleshooting skills.craigslist offers:- an unusually philanthropic company mission and philosophy;
+- opportunity to work on one of the most used websites in the world;
+- love from users and staff for adding features and fixing bugs;
+- a laid-back, idealistic, non-corporate vibe;
+- San Francisco office location
+- competitive compensation and superior benefitsFor consideration, please send a summary of your interest and experience and a plain text resume pasted into the body of an email (no attachments) to techjobs@craigslist.org. Thanks for your interest in craigslist!

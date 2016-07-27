@@ -1,0 +1,8 @@
+Michael DeGusta has done an amazing job charting the fragmentation of Android by visualizing the history of operating system updates on Android smartphones for sale in the United States.Compare this to iPhone updates (which DeGusta did), and it paints a telling picture.Writes DeGusta:I went back and found every Android phone shipped in the United States up through the middle of last year. I then tracked down every update that was released for each device  be it a major OS upgrade or a minor support patch  as well as prices and release & discontinuation dates. I compared these dates & versions to the currently shipping version of Android at the time. The resulting picture isn’t pretty  well, not for Android users.Other than the original G1 and MyTouch, virtually all of the millions of phones represented by this chart are still under contract today. If you thought that entitled you to some support, think again:- 7 of the 18 Android phones never ran a current version of the OS.
+- 12 of 18 only ran a current version of the OS for a matter of weeks or less.
+- 10 of 18 were at least two major versions behind well within their two year contract period.
+- 11 of 18 stopped getting any support updates less than a year after release.
+- 13 of 18 stopped getting any support updates before they even stopped selling the device or very shortly thereafter.
+- 15 of 18 don’t run Gingerbread, which shipped in December 2010.
+- In a few weeks, when Ice Cream Sandwich comes out, every device on here will be another major version behind.
+- At least 16 of 18 will almost certainly never get Ice Cream Sandwich.I dont want to steal the guys thunder by reblogging the whole thing, so go check out his chart and solid analysis of whats going on DeGustas Tumblr blog.

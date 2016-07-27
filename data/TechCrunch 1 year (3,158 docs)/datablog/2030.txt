@@ -1,0 +1,30 @@
+Cut The Rope is popular. Anyone whos ever spent 30 seconds looking at the App Stores Top 10 list could tell you that. But just how popular is it? How many people do you think are actually playing with that little candy-obsessed green dude each day? 1.6 million. Thats how many. 1.6 million unique users, daily. Ridiculous.Lookin to tap that monstrous money keg for a few more greenbacks (or, as they so eloquently put it, to broaden the reach of the Cut the Rope brand), ZeptoLab has just launched a digital comic series focusing on the games main character, Om Nom.I wont delve too deep into the plot here, but as you might imagine (if youve played the game), it involves Om Nom, some rope, and some candy (spoiler alert: he eats the candy.) But wait, Greg! Didnt they launch a comic quite a while ago?Almost — but not quite. They announced the comic back in July, with intentions to ship it in August. It took a bit longer than expected to dot the is and cross the ts, but theyve managed to sneak it onto the App Store just in time for the holiday rush. Interestingly, the company had previously mentioned physical copies of the comic being printed — no word on where those went, as of yet. (Update: The company says the print books were always intended to launch a bit later than the digital copies, and that theyre still planning to release them.)Three digital issues are available now. First ones free, and the rest will set you back 2 bucks a pop. You can find the comic book app in the App Store here.Oh, and for those scroungin for a few more Cut The Rope stats:
+		
+			#gallery-1 {
+				margin: auto;
+			}
+			#gallery-1 .gallery-item {
+				float: left;
+				margin-top: 10px;
+				text-align: center;
+				width: 33%;			}
+			#gallery-1 img {
+				border: 2px solid #cfcfcf;
+			}
+			#gallery-1 .gallery-caption {
+				margin-left: 0;
+			}
+		
+		
+		
+			
+				
+			
+			
+				
+			
+			
+				
+			
+			
+		

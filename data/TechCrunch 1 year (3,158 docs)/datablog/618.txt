@@ -1,0 +1,1 @@
+In an excellent piece by David Sanger, the NY Times has confirmed what we all suspected: that the US deployed the Stuxnet worm, a powerful worm that targets very specific machines within Irans nuclear enrichment program.

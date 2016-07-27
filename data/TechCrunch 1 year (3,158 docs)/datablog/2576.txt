@@ -1,0 +1,17 @@
+Sure, other sites might have footage of Ice Cream Sandwich (Android 4.0.) They grabbed a Galaxy Nexus, fumbled with it for a second or two, and then shot 2-3 minutes of video with a device/interface they werent really familiar with. And thats fine.But I didnt want to do that — I wanted us to do it right. Late last night, I caught up with Androids Engineering Director Dave Burke for an in-depth, 15 minute video showing the full array of Ice Cream Sandwichs finest features.Want to skip around a bit? Only care about one or two features? Ive broken down the timestamps below, so feel free to scrub the timeline.0:00 : The Galaxy Nexus Hardware
+0:37 : Android 4.0s New Look and Design Theory
+1:25 : New, resizable widgets
+2:01 : Improved keyboard (with spellcheck)
+2:30 : On-the-fly speech-to-text conversion*
+3:51 : The New Browser (Improved tab browsing/Offline browsing/Request desktop site button)
+5:18 : The New Gmail
+6:10 : Folders
+6:55 : The New Camera (Touch to focus, rapid-fire photos)
+7:40 : On-device photo editing
+8:06 : Panoramic photograph mode (with auto stitching)
+9:02 : 1080p video recording
+9:25 : Facial Recognition screen unlock*
+11:06: The new look of Books (and the context sensitive onscreen buttons)
+11:45: The new recent apps carousel (with swipe-to-close gestures)
+12:15: The on-device data usage monitor
+13:50: Android Beam (Device-to-device content sharing)*(Sections with *s are those that are particularly awesome and absolutely worth watching even if you dont have time for the whole thing)You might recognize this video from our hands-on impressions last night — but given just how much is really shown off here, we figured the video was worth breaking out of that wall of text.

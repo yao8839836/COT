@@ -1,0 +1,42 @@
+Watch this space because beginning at 10am Eastern/7am Pacific we will be live from the Amazon event in New York City. What are we expecting? The Fire, of course  Amazons newest Kindle that will come with a full-color, touch-sensitive screen and perhaps a few other tricks including Prime ebook subscriptions and a more robust and compelling Amazon app store. Well update this post during the event, so refresh early and often.9:59  Were starting up. People are all reading Bloomberg so its pretty quiet.
+10:04  Video of New Yorkers talking about the original Kindle. Im not a very technological person, and for me to use it effectively has been wonderful. Hagiography.
+10:06  Bezos on stage. Four years ago we set out to reinvent the book.
+
+10:08  Physical book sales far outpaced by Kindle books.
+
+10:09  Started with 900,000 books, now there are a million.
+Talking more about E-Ink.
+Lots of talk about the cloud. Recapping the Kindle.
+
+10:11  Still recapping. Talking about WhisperSync. Talking about text sharing.
+
+10:13  #1 Best-Selling E-reader.
+10:14  Launch of Kindle Touch  Touchscreen Kindle with IR touchscreen.
+
+10:17  Talking about the touch. Its literally a Kindle with a touchscreen. New feature includes X-Ray. X-Ray lets you do research inside a book. Paragraph on Versailles Treaty goes to, for example, Wikipedia. The interesting information is included with books so you dont have to use Wi-Fi.
+
+10:22  Kindle Touch 3G  Works in 100 countries. Free 3G Connect. $149. Pre-order starting today. Ship November 21st.Kindle without touch is $79. Has special offers from Amazon and Amazon Local.
+Ships today.
+
+
+10:27  Talking about movies and songs. 17 million songs, 100,000 movies. Amazon Cloud Player.
+10:29  Amazon Prime. Turns casual shoppers into addicts.
+10:31  Now talking about Amazon Web services. Infrastructure services. Looks like this is an omnibus release.
+10:32  Quick recap:
+The Fire
+Kindle Touch  $9910:35  Just launched Kindle Fire Tablet. Dual processor. Wireless sync to Amazon Cloud.
+
+WhispeSync for movies  watch a movie on fire, then watch it at the same spot on your Amazon-supported TV at home.
+Wildly smooth interface. Magazines, games, books, all show up in recently touched order. New book? Shows on top. Just read something? Shows up on top. Below the spinner you can pin favorites like games and apps.
+This is a full-bore media device.
+16 million colors. Gorilla Glass. Massive pixel density.
+
+10:41  Bezos shows off his Fruit Ninja skillz.
+10:42  Talking about old Amazon page v new page. 10K vs 630K. Hell be talking about a browser now. Talks about Flash.
+Planning to use Amazon EC2 to render web pages on the back end. Amazon Silk. Split browser. Partially lives on EC2, partially lives in Kindle fire.
+
+
+Were on a better network. All the heavy lifting on the back end. You get optimized content to the device. Theyre calling it split browser architecture. Its more like client server, but dont tell them that.Confirms Kindle Fire is $199. Kindle for movie, web, games, and reading.10:53  Ships November 15, pre-order today.
+
+10:54  All done. Thanks for watching.
+

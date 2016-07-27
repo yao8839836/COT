@@ -1,0 +1,19 @@
+Fitbit has consistently proven to be the best smart pedometer on the market. Competitors exist, including the excellent Striiv, but the ease of use and portability of this little pedometer clip beats them all. In short, Fitbits just work.With the launch of the Aria wireless scale, Fitbit has added another sensor in the panoply of health data available to high-tech health nuts. This innocuous-looking device takes both your weight and your body fat percentage and automatically sends it to the Fitbit website for later perusal. Like the mini-pedometer, these readings help you understand your current health status and remind you, ceaselessly and without mercy, of your  well, my  failures as a biological entity.The Aria supports up to 8 users and it senses uses based on previous weight measurements. When the wife or kids hop on, you see their readings (if shared) pop up in the main users account. To take body fat percentage measurements you need to take your weight reading with your socks off. Once the Aria senses your vitals it transmits them via WiFi to the server.The service, in all honesty, couldnt be easier to set up. In setup mode you simply connect to a Wi-Fi access point that the scale creates initially. You connect to the access point, tell the scale your local Wi-Fi information, and save your settings. Then all you have to do is change batteries occasionally. The screen is easy to read  its blue on black, similar to the Fitbits OLED screen  and the instructions are simple. Readings are taken in a few seconds.I didnt have long to test the scale, but in comparison to similar devices (remember the Tweeting scale?), this device is superior. Because there is no real set up involved, its perfect for the technically averse and those who may want to set this up for a loved one in order to help monitor weight loss.
+
+These things work by making you actually think about your weight and exercise. Rather than being offered some nebulous terms like working out and shedding pounds, these devices offer feedback as bluntly and as clearly as possible.
+
+	
+	WP_SLIDESHOW_IMAGES = {
+		load: 'http://s1.wp.com/wp-content/mu-plugins/slideshow/slideshow-loader.gif?m=1289605033g',
+	};
+	WP_SLIDESHOW_LABELS = {
+		next: 'Next',
+		prev: 'Previous',
+		stop: 'Toggle Playback'
+	};
+	WP_SLIDESHOW_BLOG_INFO = {
+		blogId: '24588526',
+		subDomain: 'tctechcrunch2011',
+		userId: '0'
+	};
+	This slideshow requires JavaScript.
