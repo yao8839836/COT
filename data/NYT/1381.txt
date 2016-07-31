@@ -1,0 +1,42 @@
+
+With the Japanese authorities working to avert a catastrophic meltdown at the Fukushima Daiichi nuclear power plant and one other Japanese plant showing problems, the safety of America&rsquo;s nuclear plants &mdash; and the wisdom of any expansion &mdash; is beginning to come under a new round of scrutiny.        
+
+Although exactly what happened at Japan&rsquo;s nuclear power plants is still being sorted out, most of the nuclear plants in the United States share some or all of the risk factors that played a role at Fukushima Daiichi: locations on tsunami-prone coastlines or near earthquake faults, aging plants and backup electrical systems that rely on diesel generators and batteries that could fail in extreme circumstances.        
+
+David Lochbaum, a nuclear engineer and the director of the Nuclear Safety Project of the Union of Concerned Scientists, suggested Sunday that while emergency preparedness and safety redundancies were built into the DNA of every nuclear plant in the United States, the string of events that damaged the Fukushima plant was beyond the sort of situations imagined by nuclear regulators and plant designers.        
+
+&ldquo;The real situation they found themselves in is not really planned for,&rdquo; Mr. Lochbaum said. &ldquo;Those plants are designed to be highly resistant to damage by earthquakes, and as immune as possible to tsunami. The problem was the one-two punch. We design against these sorts of things in isolation, and the combination is a little beyond what they would have anticipated.&rdquo;        
+
+On Sunday, Representative Edward J. Markey, Democrat of Massachusetts, sent a letter to President Obama calling for a moratorium on new nuclear plants until more coherent federal procedures for nuclear emergencies were ironed out.        
+
+&ldquo;In stark contrast to the scenarios contemplated for oil spills and hurricanes, there is no specificity for emergency coordination and command in place for a response to a nuclear disaster,&rdquo; Mr. Markey said in a statement.        
+
+Nuclear power provides about 20 percent of the nation&rsquo;s electricity, and there are 104 reactors licensed to operate in 31 states, according to the Nuclear Regulatory Commission. A majority are so-called pressurized water reactors, different from the General Electric boiling water reactors at the Fukushima Daiichi plant. There are 35 G.E. boiling water reactors in the United States, with 31 of them early &ldquo;Mark 1&rdquo; or &ldquo;Mark 2&rdquo; designs, the type used at Fukushima.        
+
+Beyond the age of the plant, the relative safety of any one design over another &mdash; and perhaps more importantly, the ability to minimize the impact of any emergency on surrounding populations &mdash; depends on a wide array of variables, regulators and nuclear experts say.        
+
+Although the exact sequence of events at the Fukushima plant is still unclear, early assessments suggested that the containment structures weathered last week&rsquo;s earthquake, but that power from the electric grid was cut off.        
+
+Nearly all nuclear facilities use backup diesel generators in such situations to maintain control over a reactor, prevent it from overheating by circulating a cooling agent and begin shutting it down.        
+
+But in this case, the subsequent tsunami may have damaged those generators and other components, forcing the use of another layer of backup, battery power.        
+
+However, batteries are designed to last only four to eight hours in most cases, just long enough to allow technicians to restore grid or generator power. If there is trouble restoring those power sources, as appears to be the case in Japan, the strategies for cooling the reactor become much more difficult.        
+
+All nuclear facilities in the United States deploy similar backup strategies, and in a statement Saturday, the Nuclear Regulatory Commission said that the nation&rsquo;s nuclear power plants were built to withstand environmental hazards, including earthquakes and tsunamis.        
+
+&ldquo;Even those plants that are located outside of areas with extensive seismic activity are designed for safety in the event of such a natural disaster,&rdquo; the agency said. &ldquo;The N.R.C. requires that safety-significant structures, systems and components be designed to take into account the most severe natural phenomena historically estimated for the site and surrounding area.&rdquo;        
+
+Two nuclear power plants operate in quake-prone California: the two-reactor Diablo Canyon nuclear power plant near San Luis Obispo, operated by Pacific Gas and Electric, and Southern California Edison&rsquo;s San Onofre plant near Long Beach, which also has two reactors. Both plants use pressurized water reactors.        
+
+Diablo Canyon has been embroiled in a bitter battle with local opponents seeking new seismic studies ahead of a decision to extend the plant&rsquo;s operating license, which is due to expire in about 15 years. Opponents point in part to the discovery of a previously unknown fault about a mile offshore.        
+
+But Paul Flake, a spokesman for Pacific Gas and Electric, said that geological studies &mdash;both historical and projected &mdash; placed the maximum seismic strength of an earthquake near the plant at 6.1 to 6.5, and that the plant is designed to withstand a quake of up to 7.5 in magnitude. The quake off the coast of Japan measured 8.9.        
+
+Mr. Lochbaum added that other potential problems exist in nearly every region. &ldquo;The Midwest has tornadoes, parts of the gulf experience hurricanes. There are places in the North where severe ice has caused problems. They all share the common thread of Mother Nature challenging the plants.&rdquo;        
+
+Anthony R. Pietrangelo, a senior vice president and chief nuclear officer with the Nuclear Energy Institute, a trade group representing the nuclear power industry, said that the industry was keenly watching the Japanese situation and would readily revisit its own emergency procedures as new information and potential lessons emerged.        
+
+But he also said the combination of an enormous earthquake and immense tsunami was of historic proportions, and that the odds of it happening in the United States were small.        
+
+&ldquo;It&rsquo;s not impossible, he said, &ldquo;but it&rsquo;s extremely remote.&rdquo;        

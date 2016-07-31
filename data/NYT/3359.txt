@@ -1,0 +1,3 @@
+
+
+The British police filed charges on Wednesday against a 19-year-old suspected of involvement in cyberattacks. The suspect, Ryan Cleary, was charged with five offenses under the Computer Misuse Act, the police said. One charge relates to using a flood of traffic to crash the Web site of the British Serious Organized Crime Agency, equivalent to the F.B.I., in what is known as a &ldquo;distributed denial of service&rdquo; attack.        

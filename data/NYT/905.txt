@@ -1,0 +1,12 @@
+
+As protests have erupted in Bahrain over the last several days, the government has severely restricted the access of its citizens to the Internet, new data from an organization that monitors Internet traffic strongly suggests.        
+
+The data, collected by Arbor Networks, is the first quantitative confirmation that Internet traffic into and out of Bahrain has suffered an anomalous drop over the past days.        
+
+Jose Nazario, the senior manager of security research at Arbor, which is based in Massachusetts, said that the traffic was 10 percent to 20 percent below expected levels. The measurements gauge the amount of information flowing through Internet backbone lines  into and out of Bahrain.        
+
+A fluctuation of that size is generally caused only by natural calamities or major global sporting events, Mr. Nazario said, leading the company to conclude that the most likely explanation is  that Bahrain is blocking many sites on the Internet.        
+
+He said that the company could not absolutely rule out technical problems with Internet carriers inside the country as a cause.        
+
+But Jillian York of Harvard,  project coordinator for the OpenNet Initiative, said that the findings were consistent with reports that Bahrainis had been blocked from various sites, including YouTube and Bambuser.        

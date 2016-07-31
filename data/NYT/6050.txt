@@ -1,0 +1,52 @@
+
+PARIS &mdash; The sinking sensation of an airplane in a stall is not one that many pilots forget.        
+
+&ldquo;The feeling in your stomach is very uncomfortable &mdash; it&rsquo;s scary,&rdquo; said Jean-Pierre Otelli, a veteran flight instructor, acrobatic pilot and author of a series of books on aviation safety.        
+
+What is harder to remember, in the heat of the moment, is the proper way to regain control of the aircraft.        
+
+In the months since French accident investigators published a report in July on the 2009 stall and crash of an Air France jet over the Atlantic, there has been much debate within the industry about why the pilots failed to take appropriate action in the four minutes it took the plane to plummet from 38,000 feet before hitting the water and killing all 228 people aboard. But the increasing prominence of human error as a factor in fatal crashes like Air France Flight 447 &mdash; and like the 2009 Colgan Air crash near Buffalo, New York, that killed 50 &mdash; is a distressing phenomenon that some safety experts say regulators are only beginning to address.        
+
+&ldquo;You have to overcome what your instinct tells you to do,&rdquo; said Mr. Otelli, whose book &ldquo;Pilot Errors, Volume 5&rdquo; was the first to publish the unedited transcript of the Flight 447 cockpit voice recordings. For the hundreds of pilots he has trained to recognize and recover from an aerodynamic stall, Mr. Otelli said, &ldquo;the first reaction of all of them is to pull back on the control stick&rdquo; and drive the plane&rsquo;s nose higher &mdash; a move that only exacerbates the problem. &ldquo;It&rsquo;s a reflex that&rsquo;s almost uncontrollable,&rdquo; he said.        
+
+Learning to overcome that impulse, and instead to maneuver the nose toward the ground to regain speed, takes repeated practice and forms part of the initial training of every licensed pilot. Still, &ldquo;this is not something everyone is able to do after the second, third or maybe even the fourth try,&rdquo; he said. &ldquo;If a pilot has only experienced a stall once or twice &mdash; and perhaps only in a flight simulator &mdash; chances are higher that instinct takes over in a live situation.&rdquo;        
+
+France&rsquo;s Bureau of Investigations and Analysis found that the two co-pilots in the Air France crash had not been trained to fly in manual mode at high altitude or to recognize the approach to, and recovery from, a high-altitude stall. The crew&rsquo;s captain, a 25-year veteran, had received such training only early in his career. Many airlines have since added these and other upset-recovery techniques to in-house training programs, but no national regulator has mandated regular refresher training.        
+
+&ldquo;Unfortunately, it took these accidents to get the attention of the mainstream aviation community, the regulators and the public,&rdquo; Sunjoo Advani, an aerospace engineer who runs I.D.T., a flight simulator developer in the Netherlands, said of the Air France and Colgan Air disasters. &ldquo;As we are now starting to understand, many pilots today are inadequately trained to recognize and recover from loss of control.&rdquo;        
+
+Loss of control in flight is rare. It accounted for only about 5 percent of all aircraft accidents and incidents in the past 10 years globally, according to statistics compiled by the European Aviation Safety Agency, and nearly one-third of those incidents involved an aerodynamic stall. But when it does occur, it is almost always catastrophic: Of the 101 accidents attributed to loss of control from 2001 to 2010, 80 percent were fatal. Of all air passenger deaths over the past decade, 25 percent were the result of a loss of control.        
+
+&ldquo;These accidents are very severe in terms of fatalities and damage,&rdquo; said Ilias Maragakis, a safety analyst at the European Aviation Safety Agency in Cologne. &ldquo;It is the biggest killer in aviation.&rdquo;        
+
+Regulators say one of the reasons human error now figures more predominantly in the accident statistics is because today&rsquo;s aircraft are equipped with technology designed to prevent pilots from inadvertently putting their aircraft in danger and to alert them to potential hazards. The introduction of advanced ground proximity warning systems, for example, has sharply reduced the number of jetliners crashing into mountainsides &mdash; a leading cause of aviation fatalities 20 years ago.        
+(Page 2 of 2)
+&ldquo;As technology improves, the human element becomes more of a factor,&rdquo; said Herbert Meyer, manager of the European Aviation Safety Agency&rsquo;s operational evaluation board. &ldquo;New technology brings new challenges.&rdquo;        
+
+Among those challenges, safety experts said, is making sure that, as pilots are trained to use these new technologies, they don&rsquo;t become so reliant on them that they are unable to recall the proper manual procedures when the high-tech tools fail.        
+
+&ldquo;Today&rsquo;s pilots are conditioned completely differently because of automation,&rdquo; said David Learmount, operations and safety editor at Flight International magazine and a former military pilot. &ldquo;Now everything is handed to them, literally, graphically, on a plate.&rdquo;        
+
+To be sure, pilots are not always the first link in the chain of a loss-of-control accident. The initial triggers can vary considerably, ranging from equipment failure, an encounter with severe weather or even an improper loading of the cargo hold. But experts said some recent cases &mdash; like a Qantas A380 that landed safely in Singapore last year after an engine explosion and the US Airways jet that glided into the Hudson River of New York on 2009 after its engines ingested several geese &mdash; were proof that mastery of key handling skills can be the difference between a massacre and a miracle.        
+
+Loss of control &ldquo;is often touted as a new phenomenon that requires new training and new skills,&rdquo; said Robert Scott, a former British Navy pilot who runs a flight training consultancy in Vancouver, British Columbia. &ldquo;But the same skills that were required in a pre-automation age are just as relevant now,&rdquo; he said. &ldquo;They should have the same priority as managing automation.&rdquo;        
+
+Some safety experts were already sounding the alarm about critical gaps in manual handling skills years before the Air France and Colgan Air crashes. Mr. Advani of I.D.T. said that he proposed to members of the prestigious Royal Aeronautical Society in London in late 2007 organizing a conference to address loss of control training. &ldquo;I got a mixed response,&rdquo; he said.        
+
+Today, it is one of the hottest topics in aviation: In the past three months, no fewer than four industry conferences have been organized on the subject of loss of control in flight. Mr. Advani now leads a committee of 80 experts that has spent the last two years researching and testing improved methods for teaching pilots how to recognize, prevent and recover from stalls and other loss-of-control events.        
+
+His group, the International Committee for Aviation Training in Extended Envelope, will soon propose a series of changes aimed at creating standardized upset scenarios in flight simulators and training aircraft that are more realistic for the pilots.        
+
+&ldquo;When a simulator stalls, it feels like nothing. It is very benign, whereas in the aircraft it can be a dramatic experience&rdquo; Mr. Advani said. &ldquo;We must create an environment where the pilot is challenged in a realistic way &mdash; to even make it difficult to apply the correct control inputs,&rdquo; he said. &ldquo;Ultimately, proper techniques for both prevention and recovery should become thoroughly trained responses. &rdquo;        
+
+Mr. Advani&rsquo;s committee &mdash; which includes representatives from Airbus, Boeing, pilot training companies and nearly a dozen major airlines &mdash; will present its recommendations next year to the International Civil Aviation Organization, an arm of the United Nations, with the hope that they will be adopted by its 190 member states and, eventually, incorporated into national air safety regulations.        
+
+Mitch Fox, the I.C.A.O.&rsquo;s chief of operations, said the initiative from the Committee for Aviation Training in Extended Envelopes was one of several proposals related to pilot training that were &ldquo;high on our radar.&rdquo; His agency, he said, has asked aircraft manufacturers for access to more of the data they collect during the development and certification of new aircraft, which would enable accurate simulations of how their planes behave outside their normal flight envelope &mdash; information that the plane makers do not currently pass on to simulator manufacturers and flight schools.        
+
+The I.C.A.O. expects to adopt new rules requiring updates to simulator standards and pilot training manuals within the next six to 12 months, he said.        
+
+In the United States, the National Transportation Safety Board made a number of recommendations aimed at minimizing loss-of-control accidents as long ago as 2004, including more realistic stall training for pilots and improvements to simulator scenarios. The Federal Aviation Administration proposed a broad overhaul of pilot training standards in January 2009 and this year revised the plan to include new requirements for recurrent training on how to recognize and recover from stalls and other upsets. Those changes are still being reviewed by Congress, however, and have not been approved.        
+
+Critics said they welcomed the regulators&rsquo; recognition of the problem, but faulted them for not acting more swiftly to amend pilot training standards.        
+
+&ldquo;We should be ashamed every time we lose an airplane unnecessarily. It&rsquo;s infuriating,&rdquo; said Mr. Scott, the training consultant. &ldquo;We have no right to go on killing people like this.&rdquo;        

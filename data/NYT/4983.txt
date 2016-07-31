@@ -1,0 +1,26 @@
+
+TOKYO &mdash; The United States gave a stern warning on Wednesday over recent cyberattacks on Japan&rsquo;s biggest defense contractors, the latest in a series of security breaches that have fueled concern about Tokyo&rsquo;s ability to handle delicate information.        
+
+An online assault on defense contractors including Mitsubishi Heavy Industries, which builds F-15 fighter jets and other American-designed weapons for Japan&rsquo;s Self-Defense Forces, began in August, but only came to light this week, prompting rebukes from Japanese officials over the timing of the disclosure. The IHI Corporation, a military contractor that supplies engine parts for fighter jets, may have also been a target, the Nikkei business daily reported.        
+
+The breach came less than two weeks after a Japanese air traffic controller was questioned for posting secret American flight information on his blog. The data including detailed flight plans for Air Force One last November, as well as data on an American military reconnaissance drone, officials said.        
+
+The breaches threaten to undermine any progress made by Japan, an important American ally, in bolstering cybersecurity in recent years.        
+
+The Japanese government had promised to revamp its security procedures after a Japanese Navy officer was arrested in 2007 over the leak of classified data on the United States Navy&rsquo;s advanced Aegis combat radar system, which is also used on Japanese warships.        
+
+&ldquo;We are concerned by news reports of cyberattacks on select Japanese companies and will continue to monitor the issue,&rdquo; said Karen Kelley, a spokeswoman for the American Embassy in Tokyo.        
+
+&ldquo;For every country, these kinds of intrusions have the potential for long-term negative impact and must be taken seriously,&rdquo; Ms. Kelley said. &ldquo;This is why cybersecurity must be a public sector priority in close collaboration with the private sector.&rdquo;        
+
+Mitsubishi Heavy Industries said Monday that its computer systems had been hacked and that some network information may have been compromised. According to the company, 83 computers and servers at 11 locations, including its Tokyo headquarters, factories, and a research and development center were accessed in the attack. Details of the breach were still unclear, a company spokesman said Wednesday.        
+
+Defense Minister Yasuo Ichikawa has said that he had not received reports that any classified information had been compromised. It also remained unclear where the attacks originated, he said.        
+
+But an investigation by a security company has revealed that connections were made to 14 overseas sites, including at least 20 servers in China, Hong Kong, the United States and India, according to the Yomiuri Shimbun, Japan&rsquo;s largest daily. China, especially, has vehemently denied that the attack originated from within its borders.        
+
+Mitsubishi Heavy Industries has built F-15 fighter jet and missile systems, including Patriot batteries, and AIM-7 Sparrow air-to-air missiles, that were designed in the United States. The company builds some of that equipment with American contractors, including Raytheon and Lockheed Martin.        
+
+Mitsubishi Heavy Industries won 215 contracts worth $3.4 billion from Japan&rsquo;s Defense Ministry in the year ending last March, or a quarter of the ministry&rsquo;s spending that year, according to Reuters. It has previously experienced breaches in security, including the loss of data on nuclear reactor tests in 2006 and on its fighter jets in 2003.        
+
+American military contractors have also endured serious security breaches. This year, Lockheed Martin was the victim of a sophisticated hacking attack. A Japanese defense white paper last month urged its defense community to better protect its computer systems against cyberattacks after that breach.        

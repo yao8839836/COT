@@ -1,0 +1,25 @@
+
+WASHINGTON &mdash; The International Monetary Fund, still struggling to find a new leader after the arrest of its managing director last month in New York, was hit recently by what computer experts describe as a large and sophisticated cyberattack whose dimensions are still unknown.        
+
+The fund, which manages financial crises around the world and is the repository of highly confidential information about the fiscal condition of many nations, told its staff and its board of directors about the attack on Wednesday. But it did not make a public announcement.        
+
+Several senior officials with knowledge of the attack said it was both sophisticated and serious. &ldquo;This was a very major breach,&rdquo; said one official, who said that it had occurred over the last several months, even before Dominique Strauss-Kahn, the French politician who ran the fund, was arrested on charges of sexually assaulting a chamber maid in a New York hotel.        
+
+Asked about the reports of the computer attack late Friday, a spokesman for the fund, David Hawley, declined to provide details or talk about the scope or nature of the intrusion. &ldquo;We are investigating an incident, and the fund is fully functional,&rdquo; he said.        
+
+Because the fund has been at the center of economic bailout programs for Portugal, Greece and Ireland &mdash; and possesses sensitive data on other countries that may be on the brink of crisis &mdash; its database contains potentially market-moving information. It also includes communications with national leaders as they negotiate, often behind the scenes, on the terms of international bailouts. Those agreements are, in the words of one fund official, &ldquo;political dynamite in many countries.&rdquo; It was unclear what information the attackers were able to access.        
+
+The concern about the attack was so significant that the World Bank, an international agency focused on economic development, whose headquarters is across the street from the I.M.F. in downtown Washington, cut the computer link that allows the two institutions to share information.        
+
+A World Bank spokesman said the step had been taken out of &ldquo;an abundance of caution&rdquo; until the severity and nature of the cyberattack on the I.M.F. is understood. That link enables the two institutions to share nonpublic data and conduct meetings, but users of the system say that it does not permit access to confidential financial data.        
+
+Companies and public institutions are often hesitant to describe publicly the nature or success of attacks on their computer systems, partly for fear of providing information that would be useful to the individuals or countries mounting the efforts. Even so, Google has recently been aggressive in announcing attacks and, in one recent case, of declaring that its origin was China, an accusation the Chinese government quickly denied.        
+
+But in the case of the I.M.F., officials declined to say where they believe the attack originated &mdash; a delicate subject because most nations are members of the fund.        
+
+The attacks were likely to have been made possible by a technique known as &ldquo;spear phishing,&rdquo; in which an individual is fooled into clicking on a malicious Web link or running a program that allows open access to the recipient&rsquo;s network. It is also possible that the attack was less specific, a case in which an intruder was testing the system merely to see what was available.        
+
+The fund said that it did not believe that the intrusion into its systems was related to a sophisticated digital break-in at RSA Security that took place in March, which compromised some information that companies and governments use to control access to their most sensitive computer systems. RSA notified its clients of the loss of its data, and last month hackers attempted to use the information stolen from RSA to gain access to computers and networks at the Lockheed Martin Corporation, the nation&rsquo;s largest military contractor.        
+
+After that attack, the World Bank briefly shut down external access to its most sensitive systems, for fear that the stolen information could make it a target. But it quickly resumed its normal operations and says it has seen no evidence of any attacks.        
+David E. Sanger reported from Washington, and John Markoff from San Francisco.

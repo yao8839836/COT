@@ -1,0 +1,51 @@
+
+The Japanese electricians who bravely strung wires this week to all six reactor buildings at a stricken nuclear power plant succeeded despite waves of heat and blasts of radioactive steam.        
+
+The restoration of electricity at the plant, the Fukushima Daiichi Nuclear Power Station, stirred hopes that the crisis was ebbing. But nuclear engineers say some of the most difficult and dangerous tasks are still ahead &mdash; and time is not necessarily on the side of the repair teams.        
+
+The tasks include manually draining hundreds of gallons of radioactive water and venting radioactive gas from the pumps and piping of the emergency cooling systems, which are located diagonally underneath the overheated reactor vessels. The urgency of halting the spread of radioactive contamination from the site was underlined on Wednesday by the health warning that infants should not drink tap water &mdash; even in Tokyo, 140 miles southwest of the stricken plant &mdash; which raised alarms about extensive contamination.        
+
+&ldquo;We&rsquo;ve got at least 10 days to two weeks of potential drama before you can declare the accident over,&rdquo; said Michael Friedlander, who worked as a nuclear plant operator for 13 years.        
+
+Nuclear engineers have become increasingly concerned about a separate problem that may be putting pressure on the Japanese technicians to work faster: salt buildup inside the reactors, which could cause them to heat up more and, in the worst case, cause the uranium to melt, releasing a range of radioactive material.        
+
+Richard T. Lahey Jr., who was General Electric&rsquo;s chief of safety research for boiling-water reactors when the company installed them at the Fukushima Daiichi plant, said that as seawater was pumped into the reactors and boiled away, it left more and more salt behind.        
+
+He estimates that 57,000 pounds of salt have accumulated in Reactor No. 1 and 99,000 pounds apiece in Reactors No. 2 and 3, which are larger.        
+
+The big question is how much of that salt is still mixed with water and how much now forms a crust on the uranium fuel rods.        
+
+Crusts insulate the rods from the water and allow them to heat up. If the crusts are thick enough, they can block water from circulating between the fuel rods. As the rods heat up, their zirconium cladding can rupture, which releases gaseous radioactive iodine inside and may even cause the uranium to melt and release much more radioactive material.        
+
+Some of the salt might be settling to the bottom of the reactor vessel rather than sticking to the fuel rods, however.        
+
+The Japanese have reported that some of the seawater used for cooling has returned to the ocean, suggesting that some of the salt may have flowed out again, with some radioactive material. But clearly a significant amount of salt remains.        
+
+A Japanese nuclear safety regulator said on Wednesday that plans were under way to fix a piece of equipment that would allow freshwater instead of seawater to be pumped in.        
+
+Mr. Lahey said that an informal international group of experts on boiling-water reactors was increasingly worried about salt accumulation and was inclined to recommend that the Japanese try to flood each reactor vessel&rsquo;s containment building with cold water in an effort to prevent the uranium from melting down. That approach might make it harder to release steam from the reactors as part of the &ldquo;feed-and-bleed&rdquo; process that was being used to cool them, but that was a risk worth taking, he said.        
+
+Public alarm about the crisis increased on Wednesday after officials announced that  levels of radioactive iodine had been detected in Tokyo&rsquo;s tap water.        
+
+Recent rains might have washed radioactive particles into the water, as the Japanese government suggested. But prevailing breezes for the past two weeks should have been pushing the radiation mostly out to sea. And until Wednesday, some experts had predicted that radioactive iodine would not be much of a problem, because the fission necessary to produce iodine &mdash; which breaks down quickly, with a half-life of just eight days &mdash; stopped within minutes of the earthquake on March 11. The fear is that more radiation is being released than has been understood.        
+
+Preventing the reactors and storage pools from overheating through radioactive decay would go a long way toward limiting radioactive contamination. But that would require pumping a lot of cold freshwater through them.        
+
+The emergency cooling system pump and motor for a boiling-water reactor are roughly the size and height of a compact hatchback car standing on its back bumper. The powerful system has the capacity to propel thousands of gallons of water a minute throughout a reactor pressure vessel and storage pool. But that very power can also be the system&rsquo;s Achilles&rsquo; heel.        
+
+The pump and piping are designed to be kept full of water. But they tend to leak and develop alternating pockets of air and water, Mr. Friedlander said.        
+
+If the pump is turned on without venting the air and draining the water, the water from the pump would hit the alternating pockets with enough force to blow holes in the piping. Venting the air and draining the water requires a technician to reach a dozen valves, sometimes using a ladder. The water is removed through a hose to the nearest drain, usually in the floor, that leads to machinery designed to remove radiation from the water.        
+
+The process takes a full 12 hours in a reactor that is operating normally, Mr. Friedlander said. But even then, the water in the pipes tends to be radioactively contaminated because the valves that separate it from the reactor are not entirely tight.        
+
+Backlash from the reactor is likely to be an even bigger problem when the water inside the reactor is much more radioactive than usual and is under extremely high pressure.        
+
+Japanese government and power company officials expressed optimism on Wednesday morning that the crisis was close to being brought under control, only to encounter two reminders in the afternoon of the unpredictable difficulties that lie ahead.        
+
+Fukushima Daiichi&rsquo;s Reactor No. 3 began belching black smoke for an hour late in the afternoon, leading its operator, the Tokyo Electric Power Company, to evacuate workers. A spokeswoman said Thursday that more tests were needed before the company could determine how to proceed in its effort to restore the cooling system.        
+
+No. 3 is considered one of the most dangerous of the reactors because of its fuel &mdash; mixed oxides, or mox, which contain a mixture of uranium and plutonium and can produce a more dangerous radioactive plume if scattered by fire or explosions.        
+
+The spokeswoman said workers would try to repair a pump at Reactor No. 5, which was shut down at the time of the quake and has shown few problems. The pump abruptly stopped working Wednesday afternoon.        
+David Jolly contributed reporting.

@@ -1,0 +1,30 @@
+
+BEIJING &mdash; If anyone wonders whether the Chinese government has tightened its grip on electronic communications since protests began engulfing the Arab world, Shakespeare may prove instructive.        
+
+A Beijing entrepreneur, discussing restaurant choices with his fianc&eacute;e over their cellphones last week, quoted Queen Gertrude&rsquo;s response to Hamlet: &ldquo;The lady doth protest too much, methinks.&rdquo; The second time he said the word &ldquo;protest,&rdquo; her phone cut off.        
+
+He spoke English, but another caller, repeating the same phrase on Monday in Chinese over a different phone, was also cut off in midsentence.        
+
+A host of evidence over the past several weeks shows that Chinese authorities are more determined than ever to police cellphone calls, electronic messages, e-mail and access to the Internet in order to smother any hint of antigovernment sentiment. In the cat-and-mouse game that characterizes electronic communications here, analysts suggest that the cat is getting bigger, especially since revolts began to ricochet through the Middle East and North Africa, and homegrown efforts to organize protests in China began to circulate on the Internet about a month ago.        
+
+&ldquo;The hard-liners have won the field, and now we are seeing exactly how they want to run the place,&rdquo; said Russell Leigh Moses, a Beijing analyst of China&rsquo;s leadership. &ldquo;I think the gloves are coming off.&rdquo;        
+
+On Sunday, Google accused the Chinese government of disrupting its Gmail service in the country and making it appear as if technical problems at Google &mdash; not government intervention &mdash; were to blame.        
+
+Several popular virtual private-network services, or V.P.N.&rsquo;s, designed to evade the government&rsquo;s computerized censors, have been crippled. This has prompted an outcry from users as young as ninth graders with school research projects and sent them on a frustrating search for replacements that can pierce the so-called Great Firewall, a menu of direct censorship and &ldquo;opinion guidance&rdquo; that restricts what Internet users can read or write online. V.P.N.&rsquo;s are popular with China&rsquo;s huge expatriate community and Chinese entrepreneurs, researchers and scholars who expect to use the Internet freely.        
+
+In an apology to customers in China for interrupted service, WiTopia, a V.P.N. provider, cited &ldquo;increased blocking attempts.&rdquo; No perpetrator was identified.        
+
+Beyond these problems, anecdotal evidence suggests that the government&rsquo;s computers, which intercept incoming data and compare it with an ever-changing list of banned keywords or Web sites, are shutting out more information. The motive is often obvious: For six months or more, the censors have prevented Google searches of the English word &ldquo;freedom.&rdquo;        
+
+But other terms or Web sites are suddenly or sporadically blocked for reasons no ordinary user can fathom. One Beijing technology consultant, who asked not to be identified for fear of retribution against his company, said that for several days last week he could not visit the Web site for the Hong Kong Stock Exchange without a proxy. LinkedIn, a networking platform, was blocked for a day during the height of government concerns over Internet-based calls for protests in Chinese cities a few weeks ago, he said.        
+
+Hu Yong, a media professor at Peking University, said government censors were constantly spotting and reacting to new perceived threats. &ldquo;The technology is improving and the range of sensitive terms is expanding because the depth and breadth of things they must manage just keeps on growing,&rdquo; Mr. Hu said.        
+
+China&rsquo;s censorship machine has been operating ever more efficiently since mid-2008, and restrictions once viewed as temporary &mdash; like bans on Facebook, YouTube and Twitter &mdash; are now considered permanent. Government-friendly alternatives have sprung and developed a following.        
+
+Few analysts believe that the government will loosen controls any time soon, with events it considers politically sensitive swamping the calendar, including a turnover in the Communist Party&rsquo;s top leadership next year.        
+
+&ldquo;It has been double the guard, and double the guard, and you never hear proclamations about things being relaxed,&rdquo; said Duncan Clark, chairman of BDA China, an investment and strategy consultancy based in Beijing, and a 17-year resident of China. &ldquo;We have never seen this level of control in the time I have been here, and I have been here since the beginning of the Internet.&rdquo;        
+
+Jonathan Ansfield contributed reporting from Beijing, and Claire Cain Miller from San Francisco. Jonathan Kaiman and Li Bibo contributed research from Beijing.

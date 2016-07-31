@@ -1,0 +1,31 @@
+
+MOSCOW &mdash; A Russian commission has pinpointed a clogged fuel pipe as the reason a Soyuz rocket crashed into a forest in Siberia last month before it reached orbit, but the panel offered no guidance on when this type of rocket would again be considered ready for manned missions.        
+
+While narrowing the cause of the accident to one part, the commission also raised broader and difficult-to-address concerns about quality control in the Russian factories that make parts for the country&rsquo;s manned space program.        
+
+Confirming initial reports, the commission said the first and second stages fired as planned on Aug. 24. But the third stage shut down.        
+
+The doomed rocket was carrying supplies on a Progress unmanned cargo spaceship to the International Space Station, but it was similar to the model that used to ferry cosmonauts and astronauts into orbit.        
+
+The pipe that clogged was a small but integral part of the third-stage engine, according to a statement by the Russian Space Agency, which said its engineers had reached this conclusion by analyzing telemetry. Despite a lengthy search with helicopters, the authorities have yet to find any debris in the dense pine forest where the rocket crashed.        
+
+The pipe sent kerosene to a small turbine that was not generating thrust but, instead, providing power to pump kerosene and liquid oxygen into the main combustion chambers, according to the statement.&ldquo;This disrupted the engine&rsquo;s operations, affected its parameters and activated the system that switched off the engine,&rdquo; the statement said.        
+
+However reassuring that finding may be for space officials in Russia and at NASA, which has rented seats on the Soyuz rocket as the only means for Americans to reach space after the retirement of the space shuttle this summer, pinpointing the cause as a manufacturing flaw is likely to increase jitters about Russian safety.        
+
+The commission shared this concern. &ldquo;The members of the commission came to the conclusion that the manufacturing defect was accidental,&rdquo; it said. &ldquo;But a decision can be taken to qualify it as a single instance only after a thorough re-evaluation&rdquo; of quality control in the entire parts supply for the third-stage engines.        
+
+The commission recommended that the space agency put into effect a better quality-control program for engine parts and offered a suggestion for the plant that made the flawed pipe: &ldquo;video surveillance of workers at the final assembly line.&rdquo;        
+
+The commission ruled out errors by the ground crew that prepared the rocket. Such an error could have been fixed by changing the launching procedure, said Marina Alekseyenkova , an aerospace analyst at the large government-controlled bank Gazprombank, in a telephone interview.        
+
+A design flaw might also be quickly addressed. But the design of the engine, which has been flown successfully for years, is hardly in question, she said, while manufacturing defects could be hard to systematically eliminate, with hundreds of parts made in scattered, Soviet-era factories.        
+
+&ldquo;They are talking about an assembly problem,&rdquo; she said. &ldquo;This is really a bad sign for the industry. It means that everything made should be checked and checked again.&rdquo;        
+
+The Russians&rsquo; troubleshooting comes at a critically important time for NASA, as members of Congress and the White House are in a dispute over the scale of financing for the private spaceship ventures that are intended to replace the shuttle. Underscoring the risks of private space designs, a test craft of Jeff Bezos, the billionaire founder of Amazon, also crashed Aug. 24.        
+
+It was unclear how long the Russians might require to carry out the new controls, like videotaping assembly workers. The statement said officials would draft a timeline for launchings, including manned missions. The Russians had said they would launch two Soyuz boosters carrying unmanned spacecraft &mdash; a cluster of satellites and a cargo ship &mdash; before sending up a crew including American astronauts.        
+
+If the Russians cannot verify the safety of the Soyuz by mid-November, Russian and American authorities have said, the International Space Station might have to be left temporarily without a crew.        
+A previous version of this article misstated when Jeff Bezos’s test craft crashed. It was Aug. 24, not last week.

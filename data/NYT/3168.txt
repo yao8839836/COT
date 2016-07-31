@@ -1,0 +1,25 @@
+
+The Obama administration is leading a global effort to deploy &ldquo;shadow&rdquo; Internet and mobile phone systems that dissidents can use to undermine repressive governments that seek to silence them by censoring or shutting down telecommunications networks.        
+
+The effort includes secretive projects to create independent cellphone networks inside foreign countries, as well as one operation out of a spy novel in a fifth-floor shop on L Street in Washington, where a group of young entrepreneurs who look as if they could be in a garage band are fitting deceptively innocent-looking hardware into a prototype &ldquo;Internet in a suitcase.&rdquo;        
+
+Financed with a $2 million State Department grant, the suitcase could be secreted across a border and quickly set up to allow wireless communication over a wide area with a link to the global Internet.        
+
+The American effort, revealed in dozens of interviews, planning documents and classified diplomatic cables obtained by The New York Times, ranges in scale, cost and sophistication.        
+
+Some projects involve technology that the United States is developing; others pull together tools that have already been created by hackers in a so-called liberation-technology movement sweeping the globe.        
+
+The State Department, for example, is financing the creation of stealth wireless networks that would enable activists to communicate outside the reach of governments in countries like Iran, Syria and Libya, according to participants in the projects.        
+
+In one of the most ambitious efforts, United States officials say, the State Department and Pentagon have spent at least $50 million to create an independent cellphone network in Afghanistan using towers on protected military bases inside the country. It is intended to offset the Taliban&rsquo;s ability to shut down the official Afghan services, seemingly at will.        
+
+The effort has picked up momentum since the government of President Hosni Mubarak shut down the Egyptian Internet in the last days of his rule. In recent days, the Syrian government also temporarily disabled much of that country&rsquo;s Internet, which had helped protesters mobilize.        
+
+The Obama administration&rsquo;s initiative is in one sense a new front in a longstanding diplomatic push to defend free speech and nurture democracy. For decades, the United States has sent radio broadcasts into autocratic countries through Voice of America and other means. More recently, Washington has supported the development of software that preserves the anonymity of users in places like China, and training for citizens who want to pass information along the government-owned Internet without getting caught.        
+
+But the latest initiative depends on creating entirely separate pathways for communication. It has brought together an improbable alliance of diplomats and military engineers, young programmers and dissidents from at least a dozen countries, many of whom variously describe the new approach as more audacious and clever and, yes, cooler.        
+
+Sometimes the State Department is simply taking advantage of enterprising dissidents who have found ways to get around government censorship. American diplomats are meeting with operatives who have been burying Chinese cellphones in the hills near the border with North Korea, where they can be dug up and used to make furtive calls, according to interviews and the diplomatic cables.        
+
+The new initiatives have found a champion in Secretary of State Hillary Rodham Clinton, whose department is spearheading the American effort. &ldquo;We see more and more people around the globe using the Internet, mobile phones and other technologies to make their voices heard as they protest against injustice and seek to realize their aspirations,&rdquo; Mrs. Clinton said in an e-mail response to a query on the topic. &ldquo;There is a historic opportunity to effect positive change, change America supports,&rdquo; she said. &ldquo;So we&rsquo;re focused on helping them do that, on helping them talk to each other, to their communities, to their governments and to the world.&rdquo;        
+Reporting was contributed by Richard A. Oppel Jr. and Andrew W. Lehren from New York, and Alissa J. Rubin and Sangar Rahimi from Kabul, Afghanistan.

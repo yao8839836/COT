@@ -1,0 +1,36 @@
+
+This article is by 
+Ken Belson, 
+Keith Bradsher and 
+Matthew L. Wald.        
+
+TOKYO &mdash; New questions are arising about whether Tokyo Electric Power Company executives wasted precious time in the early hours of the nuclear crisis, either because of complacency or because they did not want to resort to emergency measures that could destroy the valuable plant.        
+
+The question of timing is critical. Because the earthquake and the tsunami knocked out the Fukushima Daiichi plant&rsquo;s ability to pump fresh water into either the reactors or the spent fuel pools &mdash; potent sources of radioactive material as they heated up &mdash; plant operators eventually had to improvise. And mounting radiation levels hampered workers&rsquo; ability to enter the plant, gauge the damage and contain the crisis.        
+
+Nuclear experts said that executives thought they had enough time because the reactors had shut down automatically after the earthquake, and that they did not realize the risk posed by the spent fuel rods, which are highly radioactive and still emitting heat.        
+
+The question is whether they waited too long before pumping seawater into the plant, a measure that would ruin a valuable investment.        
+
+Kuni Yogo, a former atomic energy policy planner in Japan&rsquo;s Science and Technology Agency, said he believed that the executives at Tokyo Electric Power, or Tepco, did not recognize the risks soon enough. They failed to cool the reactors on the day of the earthquake, March 11, and even after a hydrogen explosion the following day, they waited more than four hours to start dousing the reactors with seawater. They did not even try to put water into the spent fuel pools for several days.        
+
+&ldquo;On Friday afternoon, they weren&rsquo;t in a panic,&rdquo; Mr. Yogo said. &ldquo;Their main concern was the reactors, and they had shut down automatically. They could have prepared earlier to deal with the spent fuel.&rdquo;        
+
+Michael Friedlander, a former senior operator at a Pennsylvania power plant with General Electric reactors similar to the troubled ones in Japan, said the crucial question is whether Japanese officials followed G.E.&rsquo;s emergency operating procedures. Those procedures are &ldquo;crystal clear&rdquo; on how to determine when reactors should be flooded, Mr. Friedlander said, and operators at the plant should have practiced many times over the years how to flood them with seawater.        
+
+&nbsp;The procedures prescribe specific actions based on variables like reactor temperature and pressure, data Tepco has not yet released.        
+
+A former Tepco executive told The Wall Street Journal on Saturday that the company had hesitated to ruin the plant with seawater. A Tepco spokesman told The Journal that the company, &ldquo;taking the safety of the whole plant into consideration, was trying to judge the appropriate timing to use seawater.&rdquo;        
+
+While Mr. Yogo said he did not know Tepco&rsquo;s internal calculations, he said it would have been natural for the company not to want to ruin its plant, given the expense and the public opposition to new nuclear plants. &ldquo;They could have reacted earlier, but this is a relative thing,&rdquo; he said, pointing out that they were focused on the reactors rather than the spent fuel pools. &ldquo;Economically, it is tough to decide to use seawater.&rdquo;        
+
+Reactor operators calculate how long it would take, once cooling is lost, for the spent fuel to boil the water it sits in. The fuel assemblies usually lie under 20 to 30 feet of water, which would take days to boil away. Given the core damage in the reactors, the plant operators may have decided that the reactors were a higher priority than the pools.        
+
+Another possibility, though, is that fuel in the pools was being uncovered not through boiling, but because the earthquake had caused leaks. Among the questions that can probably be answered only through an independent investigation is what instrumentation the operators had available to find out the temperature and depth of the water, and whether that problem was overlooked.        
+
+Mr. Friedlander said that delays had costs. It would have been much easier to have used seawater earlier because the temperature and pressure of the reactors were lower then, making it easier to push water into them. And not enough time had passed for hydrogen to build up, so there would have been less risk of the explosions that occurred after the company began flooding reactors on the second night and third day of the crisis.        
+
+The power plant&rsquo;s batteries were still working in the first hours after the quake as well, so more electricity would have been available for illumination and other power needs.        
+
+Experts continue to debate whether time is working for or against the workers and soldiers struggling to re-establish cooling at the crippled plant.        
+Ken Belson reported from Tokyo, Keith Bradsher from Hong Kong, and Matthew L. Wald from Washington.

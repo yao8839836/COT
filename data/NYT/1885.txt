@@ -1,0 +1,41 @@
+
+WASHINGTON &mdash; The United States Nuclear Regulatory Commission said Wednesday that some of the core of a stricken Japanese reactor had probably leaked from its steel pressure vessel into the bottom of the containment structure, implying that the damage was even worse than previously thought.        
+
+The statement came as the Tokyo Electric Power Company, the operator of the Fukushima Daiichi plant, started to inject nitrogen into the reactor containment vessel of unit No. 1 to prevent a possible explosion.        
+
+The Nuclear Regulatory Commission&rsquo;s statement regarded unit No. 2, and the agency underscored that its interpretation was speculative and based on high radiation readings that Tokyo Electric had found in the lower part of unit No. 2&rsquo;s primary containment structure, called the drywell. The statement said that the commission &ldquo;does not believe that the reactor vessel has given way, and we do believe practically all of the core remains in the vessel.&rdquo;        
+
+The agency&rsquo;s statement was issued after Representative Edward J. Markey, Democrat of Massachusetts, told a House hearing on Wednesday morning that the commission had told him that the core had melted through the vessel.        
+
+He based that on a question his staff had asked the agency. But the agency responded to him by e-mail on Tuesday without directly addressing possible melting, saying only that it speculated that &ldquo;part of the Unit 2 core may be out of the reactor pressure vessel and may be in the lower space of the drywell.&rdquo; After the hearing, in response to numerous questions, the agency said that &ldquo;there are possible leakage paths from the reactor vessel into the drywell.&rdquo;        
+
+It did not say whether the fuel was molten or solid. If molten fuel has left the reactor&rsquo;s pressure vessel and reached the drywell in substantial quantities, it raises the possibility that the fuel could escape the larger containment structure, leading to a large-scale radioactive release.        
+
+A training manual developed by the companies that operate this type of reactor and dated 2009 refers to the possibility of &ldquo;creep rupture,&rdquo; in which molten core material begins seeping through a hole in the vessel and creates a bigger hole as it works; the document says the molten core material can &ldquo;ablate&rdquo; a bigger hole. It can then burn through the steel at the bottom of the drywell and interact with the concrete, producing carbon monoxide and hydrogen, which could react explosively.        
+
+Some engineers have theorized that if a core melted down and concentrated at the bottom of the vessel, it could melt through the vessel and then burn through the concrete of the foundation. One element of such an event would probably be a resumption of the nuclear chain reaction, in a molten mass in which no control would be possible because there would be no control rods to slide smoothly between neatly arrayed bundles of fuel.        
+
+Other experts say that a resumption of the chain reaction would be difficult or impossible with the type of fuel in use at Fukushima Daiichi.        
+
+Neither the commission&rsquo;s response to Mr. Markey nor its public statement later in the day outlines such a serious turn of events.        
+
+A spokesman for the commission, Scott Burnell, said in an e-mail that a flow of core material out of the reactor vessel to the drywell did not necessarily indicate that the vessel had melted. The vessel, he noted, is penetrated by pipes, and a seal around one might have failed.        
+
+The agency did not say when the flow might have occurred. In an e-mail to Mr. Markey on Tuesday, the agency gave a figure for radiation levels in the drywell high enough to cause death within minutes.        
+
+The commission&rsquo;s statement said that since it believed the reactor vessel had not given way, &ldquo;Every available method should be used to add fresh water to the Unit 2 reactor vessel and to continue cooling the core.&rdquo;        
+
+Linda L. Gunter, a spokeswoman for Tokyo Electric, dismissed the N.R.C. analysis, saying Thursday morning, &ldquo;We believe the containment for the reactor is still functioning at Unit 2; however, the damage to the suppression pool may be the source of the radiation.&rdquo;        
+
+But a spokesman for the Nuclear and Industrial Safety Agency of Japan said that he was familiar with the N.R.C. statement and agreed that it was possible the core had leaked into the larger containment vessel. The Japanese agency also confirmed that nitrogen injections had started at the No. 1 reactor, to reduce the risk of an explosion from hydrogen gas that might be building up. . Officials said the step was being taken as a precaution, not because an explosion was deemed imminent.        
+
+&ldquo;We do not believe there is a lot of hydrogen in the units,&rdquo; Hidehiko Nishiyama, deputy director general of the regulatory body, the Nuclear and Industrial Safety Agency, told reporters Wednesday.        
+
+This is the first injection of nitrogen into any of the reactors. The same approach might be tried later for the No. 2 and No. 3 reactors.        
+
+Hydrogen explosions occurred in some of the reactors in the days after the March 11 earthquake and tsunami that crippled the nuclear plant. The explosions damaged the outer buildings around the reactors. It was thought that the hydrogen was produced when zirconium from fuel rods reacted with steam.        
+
+Mr. Nishiyama said a concern now was that as the reactors gradually cooled, there would be less steam in the containment vessels, leaving room for oxygen to enter, react with the hydrogen and cause explosions. Injecting nitrogen can reduce the amount of hydrogen and oxygen.        
+
+The injection of nitrogen was one of the steps recommended by the Nuclear Regulatory Commission in a confidential assessment dated March 26. Mr. Nishiyama said the recommendation &ldquo;substantiated and reinforced&rdquo; an idea already being discussed by the Japanese authorities.        
+Matthew L. Wald reported from Washington, and Andrew Pollack from Tokyo. Reporting was contributed by Ken Belson from Tokyo.

@@ -1,0 +1,24 @@
+
+ALEXANDRIA, Va. &mdash; Lawyers for three Twitter users on Tuesday asked a judge to vacate an order requiring the social-networking Web site to turn over its account records to prosecutors who are investigating WikiLeaks for its role in disclosing secret government documents last year.        
+
+The lawyers also urged the federal magistrate judge, Theresa Buchanan, to unseal the government&rsquo;s affidavit explaining why it wanted the Twitter information and to make public any similar orders for customer records held by other Internet companies.        
+
+Federal prosecutors argued that making public such information would damage an investigation they described as still in its early stages. They also described the order for the  records as unremarkable and lawful.        
+
+&ldquo;This is routine,&rdquo; said John Davis, an assistant United States attorney for the Eastern District of Virginia.        
+
+Judge Buchanan listened intently throughout the  hearing, several times interrupting the lawyers for the Twitter users to say she thought that some of their arguments were exaggerated. It is not clear when she will rule on the dispute, which has attracted global interest.        
+
+The order came to light last month after Twitter obtained permission to notify its customers, giving them a chance to challenge it.  The order is part of the Justice Department&rsquo;s inquiry into WikiLeaks&rsquo;s founder, Julian Assange, and the leaking of hundreds of thousands of secret military and diplomatic documents.        
+
+On Dec. 14, as part of that investigation, they obtained the order for Twitter&rsquo;s records for the accounts of Mr. Assange and Bradley Manning, an Army private suspected of giving him the documents, as well as for the three people who later challenged the order: Birgitta Jonsdottir, a WikiLeaks supporter and a lawmaker in Iceland, and two computer specialists, Jacob Appelbaum, an American citizen, and Rop Gonggrijp of the Netherlands.        
+
+Prosecutors want Twitter to turn over a list of the Internet protocol addresses identifying the users&rsquo; online locations every time they logged on  between Nov. 15, 2009, and June 1, 2010, as well as a list of those with whom they were exchanging private direct messages while using the service. The order does not seek the contents of any private communications.        
+
+It is not clear whether investigators are interested in activities on Twitter itself, or are  focused on something else &mdash; like mapping out the users&rsquo; movements, or matching their identities to anonymous accounts on other services that had used the same computers at the same times.        
+
+John W. Keker, a lawyer representing Mr. Appelbaum, said the request was too broad and intrusive for the kind of order the government used, which requires relatively little justification.        
+
+Mr. Keker also twice invoked the role of the Internet in helping to fuel the protests in Tunisia and Egypt, raising the specter of government officials using such data to identify their political opponents. If prosecutors could obtain such information at will, he said, it would chill people&rsquo;s First Amendment rights of association and political expression.        
+
+But Mr. Davis argued that Twitter account activity was no different from other kinds of business records, like telephone and credit card billing records.        

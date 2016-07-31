@@ -1,0 +1,49 @@
+
+PARIS &mdash; The co-pilot at the controls of the Air France jet that went down two years ago after leaving Brazil, killing 228, had not been trained to fly the aircraft in manual mode or to promptly recognize and respond to a speed-sensor malfunction at high altitude, according to a detailed analysis by French investigators released Friday.        
+
+A second co-pilot in the cockpit when the plane ran into trouble had no such training, either. However, neither of the skills &mdash; which experts say could have helped avert the disaster &mdash;were part of standard industry training at the time.        
+
+Over all, the report, from France&rsquo;s Bureau of Investigations and Analysis, appeared to support the theory that fundamental errors by the pilots caused the plane to stall and plummet 38,000 feet. It called for significant changes to training procedures related to high-altitude trouble.        
+
+The investigators urged European and French air safety regulators to scrutinize existing training programs, and in particular to &ldquo;make mandatory the creation of regular specific exercises aimed at manual airplane handling.&rdquo; Similar training should be required in recognizing the approach to and recovery from high-altitude aerodynamic stalls, the report said.        
+
+The investigators also called for more stringent skill requirements before co-pilots were authorized to replace the captain at any time during the flight. The crisis for the Air France jet, an Airbus 330, began shortly after its captain had left the cockpit for a rest break.        
+
+William R. Voss, the president of the Flight Safety Foundation in Alexandria, Va., said longtime safety regulations requiring strict vertical separation of planes in the air meant that pilots no longer flew manually at altitudes above 24,500 feet. &ldquo;They never get to feel what the aircraft is like at altitude,&rdquo; he said, adding, &ldquo;It&rsquo;s a problem across the industry.&rdquo;        
+
+An initial chronology of the flight&rsquo;s final moments, published in May, confirmed suspicions that a loss of consistent speed readings, probably a result of icing of the plane&rsquo;s airspeed sensors, had set off the chain of events that brought down the plane, Flight 447 en route to Paris from Rio de Janeiro, on June 1, 2009.        
+
+But investigators found that the loss of valid speed readings lasted for no more than a minute of the plane&rsquo;s terrifying four-minute descent. Even without any access to reliable airspeed data, &ldquo;the situation was salvageable,&rdquo; Jean-Paul Troadec, the director of the Bureau of Investigations, told reporters on Friday.        
+
+The investigators found that the jet continued to respond to the commands until impact. Those commands, however, were consistently inappropriate for a plane approaching a stall at high altitude. Instead of pointing the nose down in order to regain speed, the pilot at the controls drove it higher, worsening the loss of forward momentum and depriving the plane of lift.        
+
+The first indication of trouble appeared 3 hours and 40 minutes into the flight, and 10 minutes after the captain had gone to the crew rest area for some sleep, a normal procedure for a long flight.        
+
+As the plane entered a zone of mild turbulence, the autopilot and autothrust suddenly disengaged &mdash; probably because of speed sensor icing. In less than a minute, the report said, &ldquo;the airplane was outside its flight envelope following the manual inputs that were mainly nose-up.&rdquo;        
+
+As abruptly as the plane had climbed &mdash; at 7,000 feet per minute, more than twice the rate of takeoff &mdash; its recorded speed declined, dropping almost instantaneously to 60 knots, the minimum velocity recognized by the plane&rsquo;s computers.        
+
+A stall warning sounded twice. The co-pilots tried to call the captain back. However, the investigators noted, neither &ldquo;made any reference to the stall warning&rdquo; or &ldquo;formally identified the stall situation.&rdquo;        
+
+About a minute later, the captain returned. Airspeed readings continued to fluctuate wildly. Meanwhile, the jet&rsquo;s nose was pointing up from the airstream at about 16 degrees &mdash; far beyond the maximum of around 5 degrees considered safe at high altitudes, where the air is thin.        
+
+But the pilots could not know this, the report said, because that information &mdash; called the angle of attack &mdash; is not displayed in the cockpit.        
+
+As the plane plunged toward the sea at vertical speed of nearly 11,000 feet per minute, the angle at one point exceeded 40 degrees.        
+
+Investigators recommended that safety regulators worldwide consider requiring jet makers to include an angle of attack indicator &ldquo;directly accessible to pilots.&rdquo;        
+
+The interim report avoids any speculation about why there was no cockpit challenge to the course of action taken by the pilot at the controls &mdash; a mystery to air safety experts.        
+
+The investigators&rsquo; reports have never named the pilots. But the French news media have identified them as Capt. Marc Dubois, 58, who had flown nearly 11,000 hours and had extensive experience on Airbus A330 and A340 aircraft; David Robert, 37, with more than 6,500 hours of experience, 4,500 of them on A330s; and Pierre-C&eacute;dric Bonin, 32, with under 3,000 hours of experience.        
+
+Investigators have confirmed that Mr. Bonin was at the controls from the moment the plane ran into trouble.        
+
+Airbus and Air France face accusations of involuntary manslaughter. But the cause of the crash had seemed likely to remain a mystery until the plane&rsquo;s so-called black boxes were recovered from the sea floor this spring. They yielded troves of information from the plane&rsquo;s computers and the last two hours of cockpit conversations.        
+
+In a statement responding to the report, Air France-KLM lauded the crew, saying it &ldquo;showed an unfailing professional attitude, remaining committed to their task to the very end.&rdquo; At this stage, the airline added, &ldquo;there is no reason to question the crew&rsquo;s technical skills.&rdquo;        
+
+Since the accident, both Airbus and Boeing have modified stall-recovery procedures with guidance from safety regulators in the United States and Europe. Safety experts say those procedures now instruct pilots to first lower the nose of the aircraft, regardless of altitude, and, if necessary, reduce thrust to avoid excessive acceleration. Previously, the standard procedure when nearing a low altitude stall was to raise the nose by around 5 degrees and maintain thrust.        
+
+Eric Schramm, executive vice president for flight operations at Air France and a Boeing 777 captain, said that the airline had introduced supplementary training for all of its pilots to practice the new stall-recovery procedures.        
+David Jolly contributed reporting.

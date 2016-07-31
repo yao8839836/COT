@@ -1,0 +1,40 @@
+
+The warnings were stark and issued repeatedly as far back as 1972: If the cooling systems ever failed at a &ldquo;Mark 1&rdquo; nuclear reactor, the primary containment vessel surrounding the reactor would probably burst as the fuel rods inside overheated. Dangerous radiation would spew into the environment.        
+
+Now, with one Mark 1 containment vessel damaged at the embattled Fukushima Daiichi nuclear plant and other vessels there under severe strain, the weaknesses of the design &mdash; developed in the 1960s by General Electric &mdash; could be contributing to the unfolding catastrophe.        
+
+When the ability to cool a reactor is compromised, the containment vessel is the last line of defense. Typically made of steel and concrete, it is designed to prevent &mdash; for a time &mdash; melting fuel rods from spewing radiation into the environment if cooling efforts completely fail.        
+
+In some reactors, known as pressurized water reactors, the system is sealed inside a thick steel-and-cement tomb. Most nuclear reactors around the world are of this type.        
+
+But the type of containment vessel and pressure suppression system used in the failing reactors at Japan&rsquo;s Fukushima Daiichi plant is physically less robust, and it has long been thought to be more susceptible to failure in an emergency than competing designs. In the United States, 23 reactors at 16 locations use the Mark 1 design, including the Oyster Creek plant in central New Jersey, the Dresden plant near Chicago and the Monticello plant near Minneapolis.        
+
+G.E. began making the Mark 1 boiling-water reactors in the 1960s, marketing them as cheaper and easier to build &mdash; in part because they used a comparatively smaller and less expensive containment structure.        
+
+American regulators began identifying weaknesses very early on.        
+
+In 1972, Stephen H. Hanauer, then a safety official with the Atomic Energy Commission, recommended that the Mark 1 system be discontinued because it presented unacceptable safety risks. Among the concerns cited was the smaller containment design, which was more susceptible to explosion and rupture from a buildup in hydrogen &mdash; a situation that may have unfolded at the Fukushima Daiichi plant. Later that same year, Joseph Hendrie, who would later become chairman of the Nuclear Regulatory Commission, a successor agency to the atomic commission, said the idea of a ban on such systems was attractive. But the technology had been so widely accepted by the industry and regulatory officials, he said, that &ldquo;reversal of this hallowed policy, particularly at this time, could well be the end of nuclear power.&rdquo;        
+
+In an e-mail on Tuesday, David Lochbaum, director of the Nuclear Safety Program at the Union for Concerned Scientists, said those words seemed ironic now, given the potential global ripples from the Japanese accident.        
+
+&ldquo;Not banning them might be the end of nuclear power,&rdquo; said Mr. Lochbaum, a nuclear engineer who spent 17 years working in nuclear facilities, including three that used the G.E. design.        
+
+Questions about the design escalated in the mid-1980s, when Harold Denton, an official with the Nuclear Regulatory Commission, asserted that Mark 1 reactors had a 90 percent probability of bursting should the fuel rods overheat and melt in an accident.        
+
+Industry officials disputed that assessment, saying the chance of failure was only about 10 percent.        
+
+Michael Tetuan, a spokesman for G.E.&rsquo;s water and power division, staunchly defended the technology this week, calling it &ldquo;the industry&rsquo;s workhorse with a proven track record of safety and reliability for more than 40 years.&rdquo;        
+
+Mr. Tetuan said there are currently 32 Mark 1 boiling-water reactors operating safely around the globe. &ldquo;There has never been a breach of a Mark 1 containment system,&rdquo; he said.        
+
+Several utilities and plant operators also threatened to sue G.E. in the late 1980s after the disclosure of internal company documents dating back to 1975 that suggested that the containment vessel designs were either insufficiently tested or had flaws that could compromise safety.        
+
+The Mark 1 reactors in the United States have undergone a variety of modifications since the initial concerns were raised. Among these, according to Mr. Lochbaum, were changes to the torus &mdash; a water-filled vessel encircling the primary containment vessel that is used to reduce pressure in the reactor. In early iterations, steam rushing from the primary vessel into the torus under high pressure could cause the vessel to jump off the floor.        
+
+In the late 1980s, all Mark 1 reactors in the United States were also retrofitted with venting systems to help reduce pressure in an overheating situation.        
+
+It is not clear precisely what modifications were made to the Japanese boiling-water reactors now failing, but James Klapproth, the chief nuclear engineer for General Electric Hitachi, said a venting system was in place at the Fukushima plants to help relieve pressure.        
+
+The specific role of the G.E. design in the Fukushima crisis is likely to be a matter of debate, and it is possible that any reactor design could succumb to the one-two punch of an earthquake and tsunami like those that occurred last week in Japan.        
+
+Although G.E.&rsquo;s liability would seem limited in Japan &mdash; largely because the regulatory system in that country places most liability on the plant operator &mdash; the company&rsquo;s stock fell 31 cents to $19.61 in trading Tuesday.        

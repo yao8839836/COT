@@ -1,0 +1,40 @@
+
+MOSCOW &mdash; For a few hours this week, the cacophonous discourse that typically reverberates through the Russian Internet went silent when cyberattacks crippled the country&rsquo;s top blogging service, Livejournal.ru.        
+
+The attacks were short-lived, and it is unclear who was behind them. But they provoked such outrage here that President Dmitri A. Medvedev, who has his own Livejournal blog, personally ordered the police to look into the matter.        
+
+With nearly five million users, Livejournal is immensely popular in Russia. Invented by an American college student, and now owned by a Russian company, Livejournal differs little from such services the world over, offering large helpings of celebrity gossip and racy photos.        
+
+Yet, in a country where press freedoms and public displays of dissent have been curtailed over the years, it has also come to serve a crucial social function.        
+
+&ldquo;Livejournal is actually the only uncensored, uncontrolled and unmoderated channel for discussion,&rdquo; said Anton Nossik, a prominent Internet specialist and blogger. &ldquo;It is equally used by all sides of our political landscape, not only by the opposition, but by the president.&rdquo;        
+
+Indeed, many government ministers and governing party officials now have Livejournal blogs, and they have become the targets not only of opposition leaders, but also of cynical teenagers and the occasional disgruntled retiree.        
+
+Debates can be fierce and sometimes spill from the virtual world into the real, as when Oleg Kashin, a government critic famous for attacking officials on his Livejournal blog, was beaten nearly to death in November.        
+
+Because of restrictions on the press here, it is often up to bloggers to expose corruption and other misdeeds by the authorities. Some, like Aleksei Navalny, a prominent anticorruption crusader, have become political forces in their own right.        
+
+&ldquo;For me, there are no opportunities to publish materials about corruption in, say, Gazprom or Transneft,&rdquo; Mr. Navalny said, referring to Russia&rsquo;s large government-owned energy companies. &ldquo;Through Livejournal, I can bring this information to a few million people, which is comparable to a television audience.&rdquo;        
+
+Unlike in countries like China and some other former Soviet republics, access to the Internet has largely remained unfettered in Russia. But for many, the recent cyberattacks have undermined a long-held assumption here that the Internet would remain free no matter how strictly other forms of media were controlled.        
+
+Livejournal was hit twice this week by so-called distributed-denial-of-service attacks, which take down a target&rsquo;s server by overwhelming it with requests. It was attacked in a similar way on March 30.        
+
+The Web site of the opposition newspaper Novaya Gazeta was also shut down for most of Friday, reportedly by attackers.        
+
+Though the perpetrators remain unknown, many immediately blamed Russia&rsquo;s security services.        
+
+&ldquo;Bloggers have obviously begun to represent a threat to many political forces and official media outlets,&rdquo; Oleg Kozyrev, a prominent blogger, wrote on Livejournal. &ldquo;Those who are independent and not indifferent have sent a challenge to the swamp of corrupt officials.&rdquo;        
+
+Such fears were heightened on Friday when a representative of the Federal Security Service, the domestic successor of the K.G.B., suggested regulating use of online services like Gmail and Skype.        
+
+&ldquo;The uncontrolled use of such services could represent a large-scale threat to the security of Russia,&rdquo; said Aleksandr Andreyechkin, the head of the agency&rsquo;s information security branch, the RIA Novosti news agency reported.        
+
+Such statements would seem to contradict policies promoted by Mr. Medvedev. An iPad-toting blogger himself, Mr. Medvedev has spent much of his time in office promoting technological modernization, and sharply criticized the recent attack on Livejournal in his own blog post.        
+
+&ldquo;I think these actions are outrageous and illegal,&rdquo; Mr. Medvedev said of the attacks in a statement posted Thursday. &ldquo;The administration of Livejournal and law enforcement agencies must sort this out.&rdquo;        
+
+Ilya Dronov, the director of development at SUP, the Russian company that owns Livejournal, said the company was readying for new assaults.        
+
+&ldquo;Someone wants Livejournal to cease to exist as a platform,&rdquo; Mr. Dronov said in a statement on his blog. &ldquo;The question now is whether we will succumb or not. This is war, and, alas, will not be without casualties.&rdquo;        

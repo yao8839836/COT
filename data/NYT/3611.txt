@@ -1,0 +1,18 @@
+
+LONDON &mdash; The term &ldquo;phone hacking&rdquo; dominating headlines around the world refers broadly to a variety of methods journalists at The News of the World and other British newspapers could have used to listen to thousands of voice mail messages until the scandal came to light.        
+
+A spokesman for the Metropolitan Police, the force investigating the matter, said it was defining the practice as &ldquo;the illegal interception of messages relayed by telecommunications that were not intended for the person who has intercepted them,&rdquo; without providing specifics.        
+
+In practice, as court documents and interviews with those involved have demonstrated, the hacking involved a number of techniques.        
+
+They took advantage of default codes &mdash; like 1111 or 4444 &mdash; that cellphone providers in Britain gave users to retrieve their voice mail. Many customers did not change this standard number to a more secure code, allowing hackers to use it in one of two ways.        
+
+In the first way, according to current and former tabloid journalists interviewed for an investigation by The New York Times Magazine into the practice, one reporter would call the intended victim&rsquo;s phone, engaging the line. A second reporter would call simultaneously, and would be directed to the voice mail system. There, the default codes could be entered, potentially allowing access to messages (which were then often deleted to prevent other rival newspapers from hearing them).        
+
+The second method was detailed on a recording obtained by The New York Times as part of the same investigation. In the recording, Glenn Mulcaire, a private detective jailed for six months in 2007 for phone hacking, described a method of calling into a voice mail system by dialing an external number provided for checking messages from other telephones, like land lines. It, too, required the default code to be entered.        
+
+If any of the intended victims had changed their codes, the hackers would resort to what they called &ldquo;blagging&rdquo; &mdash; calling cellphone companies, pretending to be authorized users or company insiders, and requesting that the access code be reset to the default.        
+
+Britain&rsquo;s major cellphone companies &mdash; Orange, Vodafone, O2, Three and T-Mobile &mdash; said in interviews on Wednesday that their voice mail access procedures had become more stringent since the early 2000s, the heyday for phone hacking.        
+
+Orange, Three and T-Mobile no longer provide default voice mail pass codes; users must set their own. O2 and Vodafone will allow codes to be set only from the cellphones they supply. If that number is reset, the new code is also sent directly to the phone. Vodafone alerts customers if three failed attempts are made to enter the number, and O2 locks voice mail services.        

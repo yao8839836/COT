@@ -1,0 +1,60 @@
+
+Years of procrastination in deciding on long-term disposal of highly radioactive fuel rods from nuclear reactors are now coming back to haunt Japanese authorities as they try to control fires and explosions at the stricken Fukushima Daiichi Nuclear Power Station.        
+
+Some countries have tried to limit the number of spent fuel rods that accumulate at nuclear power plants: Germany stores them in costly casks, for example, while China sends them to a desert storage compound in the western province of Gansu. But Japan, like the United States, has kept ever-larger numbers of spent fuel rods in temporary storage pools at the power plants, where they can be guarded with the same security provided for the plants.        
+
+Figures provided by Tokyo Electric Power on Thursday show that most of the dangerous uranium at the power plant is actually in the spent fuel rods, not the reactor cores themselves.        
+
+The electric utility said that a total of 11,125 spent fuel rod assemblies were stored at the site. That is about four times as much radioactive material as in the reactor cores combined.        
+
+Now those temporary pools are proving the power plant&rsquo;s Achilles&rsquo; heel, with the water in the pools either boiling away or leaking out of their containments, and efforts to add more water having gone awry. While spent fuel rods generate significantly less heat than newer ones do, there are strong indications that some fuel rods have begun to melt and release extremely high levels of radiation. Japanese workers struggled on Thursday to add more water to the storage pool at Reactor No. 3.        
+
+Helicopters dropped water, only to have it scattered by strong breezes. Water cannons mounted on police trucks &mdash; equipment designed to disperse rioters &mdash; were then deployed to spray water on the pools. It is unclear if that effort worked.        
+
+Richard T. Lahey Jr., a retired nuclear engineer who oversaw General Electric&rsquo;s safety research in the early 1970s for the kind of nuclear reactors used in Fukushima, said that the zirconium cladding on the fuel rods could burst into flames if exposed to air for hours when a storage pool lost its water.        
+
+Zirconium, once ignited, burns extremely hot and is difficult to extinguish, added Mr. Lahey, who helped write a classified report for the United States government several years ago on the vulnerabilities of storage pools at American nuclear reactors.        
+
+Very high levels of radiation above the storage pools suggest that the water has drained in the 39-foot-deep pools to the point that the 13-foot-high fuel rod assemblies have been exposed to air for hours and are starting to melt, said Robert Albrecht, a longtime nuclear engineer who worked as a consultant to the Japanese nuclear reactor manufacturing industry in the 1980s. Under normal conditions, the rods are kept covered with 26 feet of water that is circulated to prevent it from growing too warm.        
+
+Gregory Jaczko, the chairman of the  United States Nuclear Regulatory Commission, made the startling assertion on Wednesday that there was little or no water left in another storage pool, the one on top of Reactor No. 4, and expressed grave concern about the radiation that would be released as a result.        
+
+The 1,479 spent fuel rod assemblies there include 548 that were removed from the reactor only in November and December to prepare the reactor for maintenance, and these may be emitting more heat than the older assemblies in other storage pools.        
+
+Even without recirculating water, it should take many days for the water in a storage pool to evaporate, nuclear engineers said. So the rapid evaporation and even boiling of water in the storage pools now is a mystery, raising the question of whether the pools may also be leaking.        
+
+Michael Friedlander, a former senior nuclear power plant operator who worked 13 years at three American reactors, said that storage pools typically had a liner of stainless steel three-eighths of an inch thick, and that they rested on reinforced concrete bases. So even if the liner ruptured, &ldquo;unless the concrete was torn apart, there&rsquo;s no place for the water to go,&rdquo; he said.        
+
+Mr. Lahey said that much of the water may have sloshed out during the earthquake. Much smaller earthquakes in California have produced heavy water losses from sloshing at storage pools there, partly because the pools are located high in reactor buildings.        
+
+&ldquo;It&rsquo;s like being at the top of a flagpole, and once you start ground motion, you can easily slosh it,&rdquo; he said.        
+(Page 2 of 2)
+When the water in a storage pool disappears, the fuel rods&rsquo; uranium continues to heat the rods&rsquo; zirconium cladding. This causes the zirconium to oxidize, or rust, and even catch fire. The spent fuel rods have little radioactive iodine, which has a half-life of eight days and has mostly disappeared through radioactive decay once fission stopped when the rods left the reactor cores. But the spent fuel rods are still loaded with cesium and strontium that can start to escape if the fuel rods burn.        
+
+One factor that might determine how serious the situation becomes is whether the uranium oxide pellets in the rods stay vertical even if the cladding burns off. This is possible because pellets sometimes become fused together while in the reactor. If the pellets stay standing up, then even with the water and zirconium gone, nuclear fission will not take place, Mr. Albrecht said.        
+
+But Tokyo Electric said this week that there was a chance of &ldquo;recriticality&rdquo; in the storage pools &mdash; that is, the uranium in the fuel rods could resume the fission that previously took place inside the reactor, spewing out radioactive byproducts.        
+
+Mr. Albrecht said this was very unlikely, but could happen if the stacks of pellets slumped over and became jumbled together on the floor of the storage pool.        
+
+Plant workers would then need to add water with lots of boron because the boron absorbs neutrons and interrupts nuclear chain reactions.        
+
+If a lot of fission occurs, which may happen only in an extreme case, the uranium would melt through anything underneath it. If it encounters water as it descends, a steam explosion could then scatter the molten uranium.        
+
+At Daiichi, each assembly has either 64 large fuel rods or 81 slightly smaller fuel rods. A typical fuel rod assembly has roughly 380 pounds of uranium.        
+
+One big worry for Japanese officials is that Reactor No. 3, the main target of the helicopters and water cannons on Thursday, uses a new and different fuel. It uses mixed oxides, or mox, which contains a mixture of uranium and plutonium, and can produce a more dangerous radioactive plume if scattered by fire or explosions. According to Tokyo Electric, 32 of the 514 fuel rod assemblies in the storage pond at Reactor No. 3 contain mox.        
+
+Japan had hoped to solve the spent fuel buildup with a large-scale plan to recycle the rods into fuel that would go back into its nuclear program. But even before Friday&rsquo;s quake, that plan had hit setbacks.        
+
+Central to Japan&rsquo;s plans is a $28 billion reprocessing facility in Rokkasho village, north of the quake zone, which would extract uranium and plutonium from the rods for use in making mox fuel. After countless construction delays, test runs began in 2006, and the plant&rsquo;s operator, Japan Nuclear Fuel, said operations would begin in 2010. But in late 2010, its opening was delayed by two years.        
+
+To close the nuclear fuel recycling process, Japan also built the Monju, a fast breeder reactor, which started running in full in 1994. But a year later, a fire caused by a sodium leak shut down the plant.        
+
+Despite revelations that the operator, the quasi-governmental Japan Atomic Energy Agency, had covered up the seriousness of the accident, Monju again started operating at a reduced capacity.        
+
+Another nuclear reprocessing facility in Tokaimura has been shut down since 1999, when an accident at an experimental fast breeder showered hundreds in the vicinity with radiation, and two workers were killed.        
+
+Many of these facilities were hit by Friday&rsquo;s earthquake. A spent fuel pool at Rokkasho spilled over, and power at the plant was lost, triggering backup generators, Japan Nuclear Fuel said.        
+
+According to the Citizens Nuclear Information Center, an anti-nuclear group, about 3,000 tons of fuel are stored at Rokkasho. But the plant, about 180 feet above sea level, escaped the tsunami. Grid power was restored on Monday, the company said.        

@@ -1,0 +1,42 @@
+
+LONDON &mdash; As the WikiLeaks founder Julian Assange fights extradition to Sweden to face allegations of sexual wrongdoing, a dozen of his former colleagues are creating an alternative Web site for leaks to be governed by what they characterize as a revised vision of radical transparency.        
+
+The new organization, OpenLeaks, will begin work in earnest this summer, said Herbert Snorrason, an Icelandic programmer who is involved. It aims, he said, to avoid the &ldquo;influence of a single figurehead&rdquo; by refusing to handle documents itself. Instead, it will act as a neutral conduit to connect leakers with media and human rights organizations.        
+
+OpenLeaks emerges from the ashes of a struggle between Mr. Assange and many of his closest associates last September. About a dozen members of WikiLeaks left that month, accusing Mr. Assange of imperious behavior and of jeopardizing the project by conflating the allegations of sexual wrongdoing, which he denies, with the site&rsquo;s work. The defectors, Mr. Snorrason said, decided to start their own project.        
+
+&ldquo;It&rsquo;s no secret that we had disagreements with how WikiLeaks was being managed,&rdquo; he said, &ldquo;and a large part of what we hope to accomplish with OpenLeaks is to avoid those problems.&rdquo;        
+
+Mr. Assange has often said that he sees it as his mission, in part, to raise awareness of the material WikiLeaks releases by increasing its public profile. It is a strategy that has kept the documents he has released &mdash; including hundreds of thousands of classified United States government documents &mdash; on the front pages of newspapers around the world, including The New York Times. But it has also meant that Mr. Assange, a mercurial and charismatic figure with strong political views and a penchant for the unorthodox and newsworthy, has often become the story himself.        
+
+Though those behind OpenLeaks are at pains not to criticize Mr. Assange, and have repeatedly made it clear that they do not see themselves as his competitors, their aims address many of the barbs leveled at him, the man who has defined a new era of online mass leaks.        
+
+It is partly run by Daniel Domscheit-Berg, a precise programmer from Berlin who was once Mr. Assange&rsquo;s deputy.  Since he left WikiLeaks in September, he has been working on a book which he promises will reveal &ldquo;the evolution, finances and inner tensions&rdquo; inside WikiLeaks.        
+
+At a recent gathering of the Chaos Computer Club, a hacker community in Berlin, Mr. Domscheit-Berg said OpenLeaks would be neutral and would not rely on secrecy as WikiLeaks does. Those who seek transparency, he said, should &ldquo;stand in the sunlight ourselves and enjoy that we are creating a more transparent society, not create a transparent society while sneaking around in the shadows.&rdquo;        
+
+The new site must not, he added, &ldquo;contain any politics and personal preferences or personal dislikes about whatever you&rsquo;re going to publish or what you must not publish.&rdquo;        
+
+OpenLeaks is not the only site inspired by the success of WikiLeaks. Dozens of smaller leaking sites &mdash; some focused on specific topics, like the environment, or particular regions &mdash; have sprung up in recent months with the aim of encouraging whistleblowers.        
+
+It is, perhaps, the realization of a vision Mr. Assange outlined on his blog in 2006, the year he founded WikiLeaks. He imagined a world where &ldquo;mass leaking&rdquo; left unjust governments &ldquo;exquisitely vulnerable to those who seek to replace them with more open forms of governance.&rdquo;        
+
+But the emergence of OpenLeaks may have taken a toll on its predecessor.        
+
+In private, Mr. Assange has told reporters that the spate of defections shut down the complex computer systems WikiLeaks uses to process new information and make it hard for governments and corporations to trace its source. At a January news conference in London, he said that trouble with the site&rsquo;s &ldquo;internal mechanisms&rdquo; had rendered it no longer open &ldquo;for public business.&rdquo; He said the site would continue to accept material in other forms, like computer disks.        
+(Page 2 of 2)
+Beset by legal difficulties, working on a book for which he has signed a deal he says is worth as much as $1.7 million and managing his newfound celebrity, Mr. Assange has had less time to focus on repairing the systems, friends have said.        
+
+But his struggles, lending him the status of a martyr figure, may paradoxically provide him a better platform from which to leak damaging information, said Evgeny Morozov, a researcher on the political effects of the Internet and author &ldquo;The Net Delusion,&rdquo; a book that is skeptical of the power of the Web to change governments for the better.        
+
+&ldquo;The reason WikiLeaks has been able to function operationally,&rdquo; he said, &ldquo;is that they have managed to monopolize public attention. If anything happens to them, it is a big story.&rdquo;        
+
+The challenge for OpenLeaks, and others who hope to imitate it, Mr. Morozov said, is to make the Internet infrastructure for leaking secrets more robust. &ldquo;If anything,&rdquo; he said, the recent blows to WikiLeaks have &ldquo;revealed how easy it is to silence a publisher in the Internet age, and how little pressure you need to put on an intermediary to slow it down.&rdquo;        
+
+Late last year several companies, like Amazon, PayPal, MasterCard and the Swiss bank Swiss Post decided to stop providing financial and computer services to WikiLeaks in the wake of its controversial releases.        
+
+While traditional publishers in many countries have well-established legal protections against governments who wish to stifle information, he said, sites like WikiLeaks and OpenLeaks operate in uncharted territory.        
+
+Speaking of such challenges in a recorded speech played to a large rally in his adopted hometown, Melbourne, Australia, last week, Mr. Assange compared the struggles of WikiLeaks to those of African-Americans who fought for equal rights in the 1950s, of protesters who sought an end to the Vietnam War in the 1960s, to the feminist movement and to environmental campaigners today. &ldquo;For the Internet generation,&rdquo; he said, &ldquo;this is our challenge, and this is our time.&rdquo;        
+
+Mr. Domscheit-Berg, in his speech to the Berlin hackers, studiously avoided such soaring rhetoric about OpenLeaks. But, he said, &ldquo;I think it&rsquo;s going to be a more effective process, a more efficient process.&rdquo;        

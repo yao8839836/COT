@@ -1,0 +1,42 @@
+
+OTTAWA &mdash; A federal cabinet minister said Thursday that hackers, perhaps from China, compromised computers in two Canadian government departments in early January, leaving bureaucrats with little or no Internet access for nearly two months.        
+
+The minister, Stockwell Day, the president of the Treasury Board, told reporters that hackers had infiltrated computers in his department, which supervises the bureaucracy and government operations, as well as in the Department of Finance, which is responsible for the government&rsquo;s budget and fiscal policy.        
+
+&ldquo;Every indication we have at this point is that our sensors and our cyberprotection systems got the alerts out in time, that the information doors were slammed shut,&rdquo; Mr. Day said.        
+
+He added that the attack, the latest in a series of confirmed assaults on government computer systems, was more directly focused than were previous strikes against Canada.        
+
+&ldquo;It was a significant one &mdash; significant that they were going after financial records,&rdquo; he said.        
+
+After the attack was discovered in early January, the government largely isolated computers in the two departments from the Internet. The computers have, for the most part, remained disconnected while security officials searched individual computers for evidence in case of a criminal investigation and to remove the compromising software.        
+
+While the attack was not confirmed until late Wednesday, shortly before a Canadian Broadcasting Corporation report about it, signs that something was wrong have been evident for some time. For the past six weeks, thousands of public servants employed by the two departments have either been staying home to use Internet connections or slipping out of their offices to use wireless Internet connections at nearby cafes.        
+
+The employees were not told why they had been returned to the pre-Internet age, creating what one Treasury Board employee earlier called a &ldquo;weird&rdquo; situation in which it was difficult to complete work.        
+
+There are concerns that the hackers may have gained advance knowledge of the federal budget, to be released next month. Because Canadian  budgets are generally not amended after being presented to Parliament, they are prepared in great secrecy to prevent advance knowledge of their contents from being used for financial gain.        
+
+Vic Toews, the minister of public safety, said in an e-mail that &ldquo;we have no indication that budget security has been compromised.&rdquo;        
+
+Mr. Toews and other officials have declined to publicly outline the nature of the attack. But a government computer specialist who was briefed about the attack confirmed the CBC&rsquo;s report on the condition that he not be identified because of the government&rsquo;s policy of not discussing computer security issues.        
+
+According to the CBC and other Canadian news organizations, the attackers adopted the same approach as the one used by a China-based computer espionage ring that stole information from the Indian Defense Ministry. That gang was exposed last year by a team of researchers from the Munk School of Global Affairs at the University of Toronto.        
+
+The hackers used a technique that is sometimes known as &ldquo;executive spear phishing.&rdquo; First they took control of computers used by senior officials in the affected departments. Once inside, the hackers generated messages that appeared to be from those officials to the departments&rsquo; information technology section, which provided the hackers with passwords to various government computer systems.        
+
+At the same time, other employees in the departments received e-mails that falsely appeared to come from the senior officials that included Adobe PDF attachments. Once opened, those attachments started hidden programs that hunted for information on the government network to send back to the hackers.        
+
+While security scanning software is supposed to catch and block destructive software hidden in attachments, the hackers either developed programs that were unknown to software security companies or found a novel method of hiding their unwanted computer code.        
+
+The Canadian news reports said that the government had traced the hackers to an Internet address in China.        
+
+Rafal A. Rohozinski, one of the Munk School researchers who documented the earlier Chinese attack, said it should be possible for the Canadian government to determine if the attack originated in China or if the hackers had merely disguised their location by using Chinese servers.        
+
+Nevertheless, Mr. Rohozinski said that China was the most  likely source of the attack, although that did not necessarily indicate that it was a government-sanctioned action.        
+
+&ldquo;There are more people online in China than anywhere else,&rdquo; he said. &ldquo;Most of them are young, so you see a lot of digital promiscuity coming from China.&rdquo;        
+
+Ma Zhaoxu, a spokesman for China&rsquo;s Foreign Ministry, rejected suggestions of a link to China, Reuters reported. &ldquo;What you mentioned is purely fictitious and has an ulterior motive,&rdquo; he said.        
+
+Meanwhile, Mr. Rohozinski was skeptical that Canadian government investigators could demonstrate that no information was stolen from the systems. The government adopted a new computer security plan last fall, but he said that very little of the plan had been put in effect, leaving security largely uncoordinated and varying in quality from department to department.        

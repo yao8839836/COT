@@ -1,0 +1,16 @@
+
+TOKYO &mdash; Computers in Japan&rsquo;s Parliament have been found to be infected with a virus, officials said on Tuesday, the latest in a series of mysterious cyberattacks that have raised concerns about the leakage of sensitive information.        
+
+Personal computers used by three members of the lower house, as well as possibly a computer server, were infected by the virus, the top government spokesman, Chief Cabinet Secretary Osamu Fujimura, told reporters. He did not give details, but local media reports said the virus apparently had been used to hack into computers sometime in the past three months. The reports said log-in information and e-mails may have been stolen.        
+
+Media reports said one of the three lawmakers opened an e-mail attachment that released the virus.        
+
+The discovery comes a month after Japanese defense contractors revealed that they had also been targets of cyberattacks, which may have been aimed at classified military data. The contractors have said they did not know of any classified information being stolen.        
+
+Still, the reports raised concern in Washington since the contractors, which included Mitsubishi Heavy Industries, produce advanced American-designed weapons systems like the F-15 fighter jet. American security officials have already had doubts about Japan&rsquo;s ability to handle sensitive information since a Japanese Navy officer was arrested in 2007 for leaking classified data on the American Navy&rsquo;s advanced Aegis radar system.        
+
+Japanese officials have apparently struggled to identify the source of the earlier attacks, which came from servers scattered across several nations, including China, Hong Kong and the United States. However, the assumption here seems to be that they originated in China, especially after media reports that investigators had found digital traces that one of the screens used to begin the attacks was written in the simplified Chinese characters used in mainland China.        
+
+China has strongly denied having a hand in the earlier attacks.        
+
+On Tuesday, Mr. Fujimura and other Japanese officials gave no indication of who might have been behind the latest attacks, or what the hackers might have been after. He said that a full investigation of the latest breach is now under way.        

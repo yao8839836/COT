@@ -1,0 +1,24 @@
+
+China has made its first supercomputer based on Chinese microprocessor chips, an advance that surprised high-performance computing specialists in the United States.        
+
+The announcement was made this week at a technical meeting held in Jinan, China, organized by industry and government organizations. The new machine, the Sunway BlueLight MPP, was installed in September at the National Supercomputer Center in Jinan, the capital of Shandong Province in eastern China.        
+
+The Sunway system, which can perform about 1,000 trillion calculations per second &mdash; a petaflop &mdash; will probably rank among the 20 fastest computers in the world. More significantly, it is composed of 8,700 ShenWei SW1600 microprocessors, designed at a Chinese computer institute and manufactured in Shanghai.        
+
+Currently, the Chinese are about three generations behind the state-of-art chip making technologies used by world leaders such as the United States, South Korea, Japan and Taiwan.        
+
+&ldquo;This is a bit of a surprise,&rdquo; said Jack Dongarra, a computer scientist at the University of Tennessee and a leader of the Top500 project, a list of the world&rsquo;s fastest computers.        
+
+Last fall, another Chinese-based supercomputer, the Tianhe-1A, created an international sensation when it was briefly ranked as the world&rsquo;s fastest, before it was displaced in the spring by a rival Japanese machine, the K Computer, designed by Fujitsu. But the Tianhe was built from processor chips made by American companies, Intel and Nvidia, though its internal switching system was designed by Chinese engineers. Similarly, the K computer was based on Sparc chips, originally designed at Sun Microsystems in Silicon Valley.        
+
+Dr. Dongarra said the Sunway&rsquo;s theoretical peak performance was about 74 percent as fast as the fastest United States computer &mdash; the Jaguar supercomputer at the Department of Energy facility at Oak Ridge National Laboratory, made by Cray Inc. That machine is currently the third fastest on the list.        
+
+The Energy Department is planning three supercomputers that would run at 10 to 20 petaflops. And the United States is embarking on an effort to reach an exaflop, or one million trillion mathematical operations in a second, sometime before the end of the decade, though most computer scientists say the necessary technologies do not yet exist.        
+
+To build such a computer from existing components would require immense amounts of electricity &mdash; roughly the amount produced by a medium-size nuclear power plant. In contrast, Dr. Dongarra said it was intriguing that the power requirements of the new Chinese supercomputer were relatively modest &mdash; about one megawatt, according to reports from the technical conference. The Tianhe supercomputer consumes about four megawatts and the Jaguar about seven.        
+
+The ShenWei microprocessor appears to be based on some of the same design principles that are favored by Intel&rsquo;s most advanced microprocessors, according to several supercomputer experts in the United States.        
+
+But there is disagreement over whether the machine&rsquo;s cooling technology is appropriate for designs that will be required by the exaflop-class supercomputers of the future.        
+
+Photos of the new Sunway supercomputer reveal an elaborate water-cooling system that may be a significant advance in the design of the very fastest machines. &ldquo;Getting this cooling technology correct is very, very difficult,&rdquo; said Steven Wallach, chief scientist at Convey Computer, a Richardson, Tex., supercomputer firm. &ldquo;This tells me that this is a serious design. This cooling technology could scale to exaflop. They are in the hunt to win.&rdquo;        

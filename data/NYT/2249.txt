@@ -1,0 +1,12 @@
+
+TEHRAN &mdash; Iran has discovered a new hostile computer virus designed to damage government systems, an Iranian official who heads a cyberdefense agency said in comments reported Monday.        
+
+In comments published by Iran&rsquo;s semiofficial Mehr News Agency, the official, Gholam-Reza Jalali, said the Stars virus had infiltrated government systems but was being decoded. &ldquo;Fortunately, our scientists have successfully identified the Stars virus, which has now been sent to laboratories,&rdquo; said Mr. Jalali, a senior Revolutionary Guards commander.        
+
+He said no final conclusions had yet been reached about the virus&rsquo;s aim. In its initial state, it mimics a regular executable file.        
+
+In recent days, Mr. Jalali admitted that the powerful Stuxnet virus discovered last year did indeed infect computer systems related to the country&rsquo;s nuclear program, but said that it was discovered before causing serious damage. Mr. Jalali said that the threat from Stuxnet had not yet been completely dispelled, and cautioned that further attacks were anticipated.        
+
+&ldquo;The nation should ready itself for the next virus since it is possible that new viruses will be considerably more dangerous than the first,&rdquo; he said.        
+
+Many computer security experts believe the Stuxnet virus was created by a government or governments trying to sabotage Iran&rsquo;s nuclear program, which Western countries believe is aimed at creating a nuclear weapon, but which Iran maintains is for peaceful purposes. After that virus was discovered last year, Iran reported delays in parts of its nuclear program.        

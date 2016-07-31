@@ -1,0 +1,36 @@
+
+WASHINGTON &mdash; American intelligence agencies, in an unusually blunt public criticism of China and Russia, reported to Congress on Thursday that those two foreign governments steal valuable American technology over the Internet as a matter of national policy.        
+
+Both China and Russia hide behind the anonymity of proxy computers and dispersed routers in third countries to pilfer proprietary corporate information to accelerate their own economic development, according to the new intelligence assessment.        
+
+They have also targeted the computer networks of government agencies and universities, the report said.        
+
+American officials have for years hinted that China and Russia were leading suspects in the Internet theft of economic secrets, and those accusations have appeared as scattered commentary in government reports. Google has accused China twice in two years of broad Internet intrusions targeting its users.        
+
+However, American officials, when pressed, have said that pinpointing the culprits remained difficult in cyberspace, and they also usually emphasized that specific complaints of computer-network espionage were best raised in private government-to-government channels.        
+
+In contrast, the new intelligence study, compiled as a report to Congress on foreign economic and industrial espionage over the past two years, presents a pointed case that China and Russia are the leading actors in the Internet theft of economic secrets.        
+
+&ldquo;The computer networks of a broad array of U.S. government agencies, private companies, universities and other institutions &mdash; all holding large volumes of sensitive economic information &mdash; were targeted by cyber espionage,&rdquo; the report said.        
+
+&ldquo;Chinese actors are the world&rsquo;s most active and persistent perpetrators of economic espionage,&rdquo; it added. &ldquo;Russia&rsquo;s intelligence services are conducting a range of activities to collect economic information and technology from U.S. targets.&rdquo;        
+
+The governments in Beijing and Moscow, and their intelligence services, contract with independent hackers to expand their capabilities and cloak responsibility for the computer intrusions, the report said.        
+
+Even friendly nations spy on the United States via computers. The report warns that &ldquo;some U.S. allies and partners use their broad access to U.S. institutions to acquire sensitive U.S. economic and technology information.&rdquo;        
+
+In addition, some of the efforts to steal American economic, technical and trade secrets are conducted by foreign corporations, by organized criminal groups and by individuals.        
+
+Internet espionage exists within the United States, but it is subject to domestic criminal law, and intelligence officials underscored that the United States does not conduct economic espionage as a matter of national policy.        
+
+Senior officials in China also state unwaveringly that their government opposes computer-based espionage. In July, during a news conference in Beijing, the Foreign Ministry spokesman Hong Lei said, &ldquo;The Chinese government opposes hacking in all its manifestations.&rdquo;        
+
+Most computer-network espionage against American economic targets has focused on these areas, according to the study: information and communications technology; assessments of supplies of scarce natural resources; technologies for clean energy and health care systems or pharmaceuticals; and military data, especially maritime systems, and air and space technologies.        
+
+The report is the collective assessment of 14 American intelligence agencies and was compiled by the Office of the National Counterintelligence Executive, which reports to the director of national intelligence.        
+
+Although it described the theft of economic and trade information as a national security threat, the study says there are no reliable estimates of the monetary value of the losses. &ldquo;Many companies are unaware when their sensitive data is pilfered, and those that find out are often reluctant to report the loss, fearing potential damage to their reputation with investors, customers and employees,&rdquo; the study said.        
+
+The report concludes with a series of recommendations for strategies to determine how open a company needs to be on the Internet, programs for assessing threats from inside a company, efforts to manage data more effectively, and an emphasis on network security and auditing.        
+
+That last category could include real-time monitoring of computer networks for intrusions, muscular software to protect files, the encryption of corporate information as well as better programs to authenticate users.        

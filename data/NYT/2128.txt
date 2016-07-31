@@ -1,0 +1,43 @@
+
+TOKYO &mdash; Robots deployed inside two reactors at the Japanese nuclear plant overrun by last month&rsquo;s devastating tsunami have detected radiation levels too high for workers to enter, posing immediate challenges for a new plan to bring the ravaged complex under control by year&rsquo;s end.        
+
+Workers have not been able to enter four of the reactors at the Fukushima Daiichi Nuclear Power Plant since the days immediately after the earthquake and tsunami struck on March 11. Vital cooling systems at the plant were knocked out, and the ensuing hydrogen explosions at four of the plant&rsquo;s six reactors blew off their roofs and littered the site with radioactive debris.        
+
+On Sunday, two robots made their way into two of the reactor units, opening doors and navigating radioactive debris and puddles of water to return with temperature, pressure and radioactivity readings. The readings, released Monday, showed continued high radiation levels.        
+
+At Unit 1, robots detected up to 49 millisieverts per hour; at Unit 3, the reading was 57 millisieverts per hour. In recent weeks far higher readings have come from areas where contaminated water has accumulated, like the turbine building at Unit 2, where experts say the reactor pressure vessel may be cracked and leaking nuclear material.        
+
+Still, exposure for emergency workers in Japan is currently capped at 250 millisieverts of radiation annually. So the current levels effectively limit a worker to just a few hours of labor.        
+
+&ldquo;It is a harsh environment for humans to work in,&rdquo; said Hidehiko Nishiyama, deputy director general at the Nuclear and Industrial Safety Agency.        
+
+He said the levels would require the plant&rsquo;s operator, the Tokyo Electric Power Company, to be &ldquo;creative&rdquo; in bringing the plant to a stable state known as a cold shutdown within six to nine months, as the company laid out in a timetable on Sunday.        
+
+The Japanese government continues to face severe challenges, both technical and political, in the aftermath of a multifaceted disaster that has left 13,800 people dead and 14,000 missing. At least 137,000 people remain in evacuation centers, some driven from their homes by radiation leaks from the Fukushima plant.        
+
+Japan&rsquo;s Finance Ministry has said the damage from the earthquake and tsunami alone could reach $300 billion, making it the world&rsquo;s most costly natural disaster. The toll from the nuclear disaster &mdash; which has disrupted farming and fishing, curtailed power supplies across eastern Japan, and inflicted other wounds on the economy &mdash; is yet to be tallied.        
+
+Prime Minister Naoto Kan came under fire on Monday from opposition lawmakers who accused him of bungling the initial response to the nuclear crisis.        
+
+&ldquo;Many Japanese feel that Prime Minister Kan has no leadership,&rdquo; Masashi Waki, a lawmaker of the main opposition, the Liberal Democratic Party, said at an unusually heated parliamentary session. Sadakazu Tanigaki, the leader of the Liberal Democratic Party, last week called on Mr. Kan to resign.        
+
+&ldquo;I do not think that my response has been inadequate, as many say,&rdquo; a flustered-looking Mr. Kan said, amid heckling. &ldquo;Nonsense!&rdquo;        
+
+A poll released Monday by The Nikkei, Japan&rsquo;s largest business daily, appeared to back the opposition&rsquo;s claims. Sixty-nine percent of respondents said Mr. Kan should be replaced, while 70 percent said the government&rsquo;s response to the nuclear crisis was unacceptable. The Nikkei said it surveyed 983 people across the country from April 15 to 17, excluding some areas where phone lines remained down.        
+
+Tokyo Electric&rsquo;s  ambitious plan for bringing the reactors to a cold shutdown has also been criticized. The plan, drawn up at the government&rsquo;s order, is meant to give residents evacuated from the area around the plant an idea of when they might be able to return home.        
+
+But experts question the viability of the plan, which calls for swiftly building critical new cooling systems. Tokyo Electric faces &ldquo;substantial barriers&rdquo; in following the timetable, said Haruki Madarame, chairman of the Nuclear Safety Commission, an independent panel of experts appointed by the government to oversee the nuclear industry.        
+
+Mr. Madarame, a former professor in nuclear engineering at Tokyo University, told reporters Monday that the presence of highly radioactive water at Unit 2 posed a particular challenge. There and at other units, workers have been cooling nuclear fuel at the reactor&rsquo;s core and in storage pools by pumping in hundreds of tons of water a day, producing dangerous amounts of runoff.        
+
+&ldquo;We must make sure that the tight schedule does not lead to a neglect of safety,&rdquo; Mr. Madarame said.        
+
+Robots could help tackle some of the challenges. The remote-controlled PackBots used Sunday, built by the iRobot company of Bedford, Mass., are 60-pound contraptions with steel arms and tractor treads. They can lift about 30 pounds, go up and down steps, send images back to an operator and carry a hazardous materials kit that senses radiation.        
+
+IRobot, which also makes the popular Roomba vacuum, has delivered over 3,800 PackBots, primarily to the government and military, according to Tim Trainer, an iRobot vice president.        
+
+After arriving in mid-March, the robots were programmed to open reactor doors and navigate narrow passageways, said Mr. Nishiyama of the nuclear safety agency.        
+
+Robots, along with remote-controlled hovering drone aircraft made by Honeywell called T-Hawks, have let engineers survey and take measurements at the plant while minimizing workers&rsquo; exposure to harmful radiation. A PackBot entered a third reactor building late Sunday.        
+Ken Belson and Keith Bradsher contributed reporting.

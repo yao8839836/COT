@@ -1,0 +1,42 @@
+
+WASHINGTON &mdash; The Defense Department suffered one of its worst digital attacks in history in March, when a foreign intelligence service hacked into the computer system of a corporate contractor and obtained 24,000 Pentagon files during a single intrusion, senior officials said Thursday.        
+
+The disclosure came as the Pentagon released a strategy for military operations in cyberspace, embodying a belief that traditional passive programs for defending military and associated corporate data systems are insufficient in an era when espionage, crime, disruptions and outright attacks are increasingly carried out over the Internet.        
+
+In releasing the strategy, William J. Lynn III, the deputy defense secretary, disclosed that over the years crucial files stolen from defense and industry data networks have included plans for missile tracking systems, satellite navigation devices, surveillance drones and top-of-the-line jet fighters.        
+
+&ldquo;A great deal of it concerns our most sensitive systems, including aircraft avionics, surveillance technologies, satellite communications systems and network security protocols,&rdquo; Mr. Lynn said.        
+
+Officials declined to identify the military contractor whose data system was compromised in the March attack. They also refused to name the nation they suspected was the culprit, saying that any accusation was a matter of official, and perhaps confidential, diplomatic dialogue.        
+
+However, when major intrusions against computers operated by the Pentagon, the military or defense industry contractors have occurred in the past, officials have regularly blamed China, and sometimes Russia.        
+
+The hacking attack in March, which stole important Pentagon files in the computer network of a contractor developing a military system, had not been previously disclosed. Other breaches have been discussed, including earlier this year at Lockheed Martin, the nation&rsquo;s largest military contractor, and at RSA Security, which produces electronic identification for computer users.        
+
+&ldquo;Current countermeasures have not stopped this outflow of sensitive information,&rdquo; Mr. Lynn said during a speech at the National Defense University. &ldquo;We need to do more to guard our digital storehouses of design innovation.&rdquo;        
+
+The Pentagon&rsquo;s new strategy, the final piece of an effort by the Obama administration to defend computer networks operated across the government and private sector, calls for what is termed dynamic defense: looking for potential attackers on the Internet rather than waiting for an intruder to attack. It also calls on the Pentagon to build resiliency into its computer networks to help recover if attacked.        
+
+Mr. Lynn also stressed the importance of cooperation with foreign partners to spot computer network threats overseas, before they compromise systems here.        
+
+But James Lewis, an expert on computer network warfare at the Center for Strategic and International Studies, said the Pentagon&rsquo;s computer networks were vulnerable to security gaps in the systems of allies with whom the military cooperates. America&rsquo;s allies are &ldquo;all over the map&rdquo; on cybersecurity issues, Mr. Lewis said. &ldquo;Some are very, very capable &mdash; and some are clueless.&rdquo;        
+
+The military&rsquo;s Cyber Command was created to coordinate defensive and offensive operations for Pentagon and military computer networks. Officials speak obliquely of its capabilities for carrying out offensive operations in cyberspace if ordered by the president. And for now, the new strategy is centered on how the United States can defend itself.        
+
+But Gen. James E. Cartwright, the vice chairman of the Joint Chiefs of Staff, said the Pentagon also had to focus on offense &mdash; including the possibility of responding to a cyberattack with military action.        
+
+&ldquo;If it&rsquo;s O.K. to attack me, and I&rsquo;m not going to do anything other than improve my defenses every time you attack me, it&rsquo;s very difficult to come up with a deterrent strategy,&rdquo; General Cartwright told reporters on Thursday.        
+(Page 2 of 2)
+He said that in regard to cyberdefense, American military commanders were now devoting 90 percent of their attention to building better firewalls and only 10 percent to ways of deterring hackers from attacking. He said a better strategy would be the reverse, focusing almost entirely on offense.        
+
+The Pentagon, he said, needs a strategy &ldquo;that says to the attacker, &lsquo;If you do this, the price to you is going to go up, and it&rsquo;s going to ever escalate.&rsquo;&nbsp;&rdquo; He added that right now &ldquo;we&rsquo;re on a path that is too predictable &mdash; it&rsquo;s purely defensive. There is no penalty for attacking right now.&rdquo;        
+
+Officials say the main challenge for the United States in a retaliatory cyberoperation is determining the attacker. The Internet makes it relatively easy for online assailants to mask identities, even if the geographic location where the attack originated can be confirmed.        
+
+Mr. Lynn said most major efforts to penetrate crucial military computer networks were still undertaken by large rival nations. &ldquo;U.S. military power offers a strong deterrent against overtly destructive attacks,&rdquo; he said. &ldquo;Although attribution in cyberspace can be difficult, the risk of discovery and response for a major nation is still too great to risk launching destructive attacks against the United States.&rdquo;        
+
+However, he warned that the technical expertise needed to carry out harmful Internet raids was certain to migrate to smaller rogue states and to nonstate actors, in particular terrorists.        
+
+If a terrorist group obtains &ldquo;disruptive or destructive cybertools, we have to assume they will strike with little hesitation,&rdquo; Mr. Lynn said.        
+
+The new strategy describes how the military&rsquo;s capabilities would support the Department of Homeland Security and federal law enforcement agencies. And it acknowledges how much the military relies on private sector computer networks for such vital supplies as electricity.        

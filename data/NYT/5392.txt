@@ -1,0 +1,41 @@
+
+BERLIN &mdash; A group that calls itself the Chaos Computer Club prompted a public outcry here recently when it discovered that German state investigators were using spying software capable of turning a computer&rsquo;s webcam and microphone into a sophisticated surveillance device.        
+
+The club, a German hacking organization, announced last Saturday it had analyzed the hard drives of people who had been investigated and discovered that they were infected with a Trojan horse program that gave the police the ability to log keystrokes, capture screenshots and activate cameras and microphones. The software exceeded the powers prescribed to the police by Germany&rsquo;s Federal Constitutional Court.        
+
+The public condemnation was swift and strong, renewing a national debate into how far the government can intrude into digital privacy. The Frankfurter Allgemeine Zeitung, a major newspaper, called the revelation a &ldquo;worst-case scenario for data security.&rdquo; Germany&rsquo;s justice minister, Sabine Leutheusser-Schnarrenberger, demanded an inquiry into the matter, saying that citizens &ldquo;must be protected from snooping with strict state control mechanisms.&rdquo;        
+
+Peter Schaar, the federal commissioner for data protection, called for Parliament to enact legislation to put an end to the &ldquo;gray area&rdquo; between lawful and unlawful searches and surveillance on computers.        
+
+&ldquo;In my opinion, this kind of infiltration through software is a deeper intrusion and a greater risk than simply listening in on a phone line,&rdquo; Mr. Schaar said in an interview. &ldquo;The Bundestag has to decide to what extent something like this is allowed and to what extent it is restricted,&rdquo; Mr. Schaar said, referring to the German Parliament.        
+
+Germans are particularly sensitive to questions of privacy and data collection as a result of their experiences under the Nazi dictatorship, where personal details could be a matter of life and death. As a result, the country has some of the strongest data protection laws in the world, elevating an individual&rsquo;s right to privacy above any perceived public right to know.        
+
+&ldquo;Now Germans are beginning to recognize that this is a core problem of all people,&rdquo; said Bernd Schl&ouml;mer, the vice chairman of Germany&rsquo;s Pirate Party, a new party that recently won 8.9 percent of the vote in Berlin&rsquo;s state elections and emphasizes Internet freedom and online privacy issues. He compared the awakening toward the significance of online privacy to the growing awareness of environmental problems in the 1960s and &rsquo;70s.        
+
+In 2007, Germany&rsquo;s Interior Ministry announced that it had developed software that could scan the hard drives of terrorism suspects. The Federal Constitutional Court responded the next year with a ruling that limited such incursions and guaranteed &ldquo;confidentiality and integrity in information technology systems.&rdquo;        
+
+Federal investigators said that they were not using this software, but several states, including Lower Saxony and Baden-W&uuml;rttemberg admitted that they had employed it.        
+
+&ldquo;In essence it is about how we fight crime in a digital age,&rdquo; said Dieter Wiefelsp&uuml;tz, an expert on domestic security with the left-leaning Social Democrats. Far-reaching computer surveillance &ldquo;shouldn&rsquo;t be used for car thieves but instead for the most serious crimes. That has to be considered in the laws,&rdquo; he said.        
+
+Officials in Bavaria have said they had used the spying software to monitor suspects&rsquo; e-mails and phone calls over the Internet and have captured tens of thousands of screenshots in cases involving theft, fraud and illegal performance-enhancing drugs.        
+
+Officials have denied employing the software&rsquo;s capability of seizing control of computers&rsquo; cameras and microphones, technology that evokes action films.        
+
+The debate in Germany is evidence of the degree to which technology has permeated everyday lives, where friendships are made and nurtured on social-networking sites, and photographs and diaries are stored on hard drives. Privacy advocates argue that the difference between what authorities can glean from a telephone conversation and what can be discovered on a computer is as broad as the distance between what one says out loud and what one is thinking to oneself.        
+
+&ldquo;Our private data are our stored thoughts,&rdquo; Mr. Schl&ouml;mer said.        
+
+Security experts say the German debate over police surveillance of computers and the demands for legislation restricting the practice will increasingly be necessary across the globe as the kinds of communication captured through wiretaps shift more and more to encrypted programs like Skype.        
+
+But the software discovered by the hacker group, dubbed &ldquo;State Trojan&rdquo; or &ldquo;R2D2,&rdquo; after a line of code including the Star Wars robot&rsquo;s name, can do more than eavesdrop on phone calls. It was the ability to remotely control computers that led to charges from leading politicians that the state had crossed into Orwellian territory.        
+
+&ldquo;People have some idea of the risks they face online from criminals,&rdquo; said Mikko H. Hypponen, the chief research officer at F-Secure Corporation, an Internet security firm based in Helsinki, Finland. &ldquo;I don&rsquo;t think they really know exactly the same methods are used against them by governments, that Germany, France, the United States could be doing this.&rdquo;        
+
+Analysts, as well as the hackers who discovered the software, said the programming was amateurish. &ldquo;We were surprised by how bad the quality of the code was,&rdquo; said Frank Rieger, a spokesman for the Chaos Computer Club. A team of about 10 people analyzed the software for the group before they announced the results.        
+
+The hackers said that the program also left the computers open to further malicious attacks, the equivalent of the police&rsquo;s leaving the back door of a house open after searching it.        
+
+Still, the program falls short of what the most sophisticated hackers, organized criminals and other thieves of credit card and banking information have at their disposal.        
+Victor Homola contributed reporting.

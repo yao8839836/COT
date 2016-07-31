@@ -1,0 +1,47 @@
+
+WASHINGTON &mdash; Just before the American-led strikes against Libya in March, the Obama administration intensely debated whether to open the mission with a new kind of warfare: a cyberoffensive to disrupt and even disable the Qaddafi government&rsquo;s air-defense system, which threatened allied warplanes.        
+
+While the exact techniques under consideration remain classified, the goal would have been to break through the firewalls of the Libyan government&rsquo;s computer networks to sever military communications links and prevent the early-warning radars from gathering information and relaying it to missile batteries aiming at NATO warplanes.        
+
+But administration officials and even some military officers balked, fearing that it might set a precedent for other nations, in particular Russia or China, to carry out such offensives of their own, and questioning whether the attack could be mounted on such short notice. They were also unable to resolve whether the president had the power to proceed with such an attack without informing Congress.        
+
+In the end, American officials rejected cyberwarfare and used conventional aircraft, cruise missiles and drones to strike the Libyan air-defense missiles and radars used by Col. Muammar el-Qaddafi&rsquo;s government.        
+
+This previously undisclosed debate among a small circle of advisers demonstrates that cyberoffensives are a growing form of warfare. The question the United States faces is whether and when to cross the threshold into overt cyberattacks.        
+
+Last year, a Stuxnet computer worm apparently wiped out a part of Iran&rsquo;s nuclear centrifuges and delayed its ability to produce nuclear fuel. Although no entity has acknowledged being the source of the poisonous code, some evidence suggests that the virus was an American-Israeli project. And the Pentagon and military contractors regularly repel attacks on their computer networks &mdash; many coming from China and Russia.        
+
+The Obama administration is revving up the nation&rsquo;s digital capabilities, while publicly emphasizing only its efforts to defend vital government, military and public infrastructure networks.        
+
+&ldquo;We don&rsquo;t want to be the ones who break the glass on this new kind of warfare,&rdquo; said James Andrew Lewis, a senior fellow at the Center for Strategic and International Studies, where he specializes in technology and national security.        
+
+That reluctance peaked during planning for the opening salvos of the Libya mission, and it was repeated on a smaller scale several weeks later, when military planners suggested a far narrower computer-network attack to prevent Pakistani radars from spotting helicopters carrying Navy Seal commandos on the raid that killed Osama bin Laden on May 2.        
+
+Again, officials decided against it. Instead, specially modified, radar-evading Black Hawk helicopters ferried the strike team, and a still-secret stealthy surveillance drone was deployed.        
+
+&ldquo;These cybercapabilities are still like the Ferrari that you keep in the garage and only take out for the big race and not just for a run around town, unless nothing else can get you there,&rdquo; said one Obama administration official briefed on the discussions.        
+
+The debate about a potential cyberattack against Libya was described by more than a half-dozen officials, who spoke on the condition of anonymity because they were not authorized to discuss the classified planning.        
+
+In the days ahead of the American-led airstrikes to take down Libya&rsquo;s integrated air-defense system, a more serious debate considered the military effectiveness &mdash; and potential legal complications &mdash; of using cyberattacks to blind Libyan radars and missiles.        
+
+&ldquo;They were seriously considered because they could cripple Libya&rsquo;s air defense and lower the risk to pilots, but it just didn&rsquo;t pan out,&rdquo; said a senior Defense Department official.        
+
+After a discussion described as thorough and never vituperative, the cyberwarfare proposals were rejected before they reached the senior political levels of the White House.        
+
+Gen. Carter F. Ham, the head of the military&rsquo;s Africa Command, which led the two-week American air campaign against Libya until NATO assumed full control of the operation on March 31, would not comment on any proposed cyberattacks. In an interview, he said only that &ldquo;no capability that I ever asked for was denied.&rdquo;        
+
+Senior officials said one of the central reasons a cyberoffensive was rejected for Libya was that it might not have been ready for use in time, given that the rebel city of Benghazi was on the verge of being overrun by government forces.        
+
+While popular fiction and films depict cyberattacks as easy to mount &mdash; only a few computer keystrokes needed &mdash; in reality it takes significant digital snooping to identify potential entry points and susceptible nodes in a linked network of communications systems, radars and missiles like that operated by the Libyan government, and then to write and insert the proper poisonous codes.        
+
+&ldquo;It&rsquo;s the cyberequivalent of fumbling around in the dark until you find the doorknob,&rdquo; Mr. Lewis said. &ldquo;It takes time to find the vulnerabilities. Where is the thing that I can exploit to disrupt the network?&rdquo;        
+
+Had the computer-network attack gone ahead, administration officials said they were confident it could have been confined to Libyan networks and offered high promise of disrupting the regime&rsquo;s integrated air-defense system.        
+
+One unresolved concern was whether ordering a cyberattack on Libya might create domestic legal restrictions on war-making by the executive branch without Congressional permission. One question was whether the War Powers Resolution &mdash; which requires the executive to formally report to lawmakers when it has introduced forces into &ldquo;hostilities&rdquo; and sets a 60-day limit on such deployments if Congress does not authorize them to continue &mdash; would be required for an attack purely in cyberspace.        
+
+The War Powers Resolution, a Vietnam-era law enacted over President Richard M. Nixon&rsquo;s veto, does not define &ldquo;hostilities.&rdquo; In describing its actions to Congress and the American people, the White House argued that its use of conventional forces in the Libyan intervention fell short of the level of hostilities requiring Congressional permission under either the Constitution or the resolution, citing the lack of ground forces and the supporting role the United States was playing in a multilateral effort to fulfill a United Nations resolution. Some officials also expressed concern about revealing American technological capabilities to potential enemies for what seemed like a relatively minor security threat to the United States.        
+
+In the end, Libya&rsquo;s air-defense network was dangerous but not exceptionally robust. American surveillance identified its locations, and it was degraded through conventional attacks.        
+Charlie Savage contributed reporting.

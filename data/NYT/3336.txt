@@ -1,0 +1,18 @@
+
+The police in Britain have arrested a 19-year-old man in connection with digital attacks on businesses and government agencies &ldquo;by a single hacking group,&rdquo; the Metropolitan Police said Tuesday in a statement.        
+
+The police did not identify the man or the hacking organization. Suspicion immediately fell on two groups: Anonymous, a shadowy international network of computer hackers, and Lulz Security, a group that has claimed responsibility in recent weeks for attacks on the Web sites of the Central Intelligence Agency and the United States Senate as well as on Sony and, on Monday, the Web site of a British agency that combats organized crime.        
+
+The arrest resulted from a joint investigation by a British cybercrime unit, the local police and the Federal Bureau of Investigation into attacks on &ldquo;a number of international business and intelligence agencies,&rdquo; the police said, without naming specific targets.        
+
+British police officials said the man was being questioned in a London police station and was suspected of violating several British computer and fraud laws. After his arrest, they said, officers searched a home in Wickford, about 35 miles north of London, and turned up material that was under examination. They said the search was conducted late Monday night; the time of the arrest was not made clear.        
+
+Attacks this spring on the Web sites of several companies, including Sony and Bethesda Softworks, a video game developer, exploited holes in Internet security systems that are meant to protect hundreds of thousands of private user accounts. In a letter posted last week, Lulz Security said that it planned to mount further attacks on government and corporate Web sites, and that its attacks were meant to improve privacy protections on the Web by exposing lax security.        
+
+But the letter also outlined some expanded ambitions. &ldquo;Top priority is to steal and leak any classified government information,&rdquo; the group wrote, adding that it was now teaming up with Anonymous. &ldquo;Prime targets are banks and other high-ranking establishments.&rdquo;        
+
+Lulz Security appeared to dismiss speculation that one of its hackers had been detained, writing in a sarcastic Twitter post that it &ldquo;seems the glorious leader of LulzSec got arrested, it&rsquo;s all over now ... wait ... we&rsquo;re all still here!&rdquo; Web sites that track hacking news suggested that the suspect might be a disgruntled former member of Anonymous who is known to live in Wickford.        
+
+Earlier this month, police officials in Spain announced that they had arrested three men, said to be the local leadership of Anonymous, in connection with attacks on government and business Web sites.        
+
+Those arrests came after hackers who objected to legislation that would increase penalties for illegal downloads briefly took down the Spanish Ministry of Culture&rsquo;s Web site. The police said that one of the Spanish suspects had a computer server in his apartment in the northern port city of Gij&oacute;n, from which the group is believed to have orchestrated its attacks.        

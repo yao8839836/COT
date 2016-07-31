@@ -1,0 +1,5 @@
+
+
+A government agency said Tuesday that Chinese computers were the targets of nearly 500,000 cyberattacks in 2010. Nearly half the attacks originated outside China, and the most common type employed so-called Trojan Horse malware, according to the agency, the National Computer Network Emergency Response Coordination Center of China. In a report, the agency said that the largest number, or 15 percent, of those malware attacks originated in the United States. Trojan Horse malware is software that appears to be a useful application but is actually malevolent.        
+
+&ensp;&ensp;&ensp;The report, which was also carried by Xinhua, the state news agency, came the week after a Western Internet security vendor, McAfee, said it had found cyberattacks against 72 targets &mdash; including governments and American corporations &mdash; originating from one country. It did not name the country, but suspicion fell on China. The McAfee report offered few details that would allow independent verification.        

@@ -1,0 +1,38 @@
+
+As it struggles with the crisis at the Fukushima nuclear power plant, the Japanese government now faces another problem spawned by the disaster: whether and how to clean up areas that have been heavily contaminated by radioactivity.        
+
+On Wednesday, the International Atomic Energy Agency said a soil sample from Iitate, a village of 7,000 people about 25 miles northwest of the plant, showed very high concentrations of cesium 137 &mdash; an isotope that produces harmful gamma rays, accumulates in the food chain and persists in the environment for hundreds of years.        
+
+The cesium levels were about double the minimums found in the area declared uninhabitable around the Chernobyl nuclear plant in Ukraine, raising the question whether the evacuation zones around Fukushima should be extended beyond the current 18 miles. On Thursday, the Japanese government said it had no plans to expand the zone.        
+
+Experts said the Japanese government must also decide what to do about the cesium contamination in the village, especially since radiation releases from the plant could continue for months.        
+
+That might argue for evacuating now and postponing any long-term decisions about cleanup, which might include abandoning some areas. But experts say there are reasons to clean sooner.        
+
+With cesium, decontamination &ldquo;has to be done very quickly,&rdquo; said Didier Champion, director of the environmental and response division of the French Institute for Radiological Protection and Nuclear Safety. &ldquo;Cesium tends to fix to materials and into soil.&rdquo;        
+
+Lawrence Boing, manager of special projects in the nuclear engineering division at Argonne National Laboratory in Illinois, agreed. &ldquo;Sooner is always better when you have something that can be driven down into soils,&rdquo; he said.        
+
+Cleaning up to a safe level could be difficult and enormously expensive, but experts say it is possible, depending on the extent of the contamination.        
+
+&ldquo;The good news is that we don&rsquo;t need to develop new technologies to address the decontamination,&rdquo; said Jaime Yassif, who has studied the issue as a former researcher with the Federation of American Scientists. The nuclear power industry has developed methods to deal with minor contamination at plants, she said, &ldquo;but scaling up those operations for something so large is going to be very costly.&rdquo;        
+
+Experts were not surprised that high cesium levels were recorded at one spot in Japan; the distribution of radioactive particles from the plant depends on wind and precipitation: even a brief shower can literally rain fallout onto one spot. (High levels of radioactive iodine also create problems, but largely in food and water supplies; because it decays much more quickly than cesium, most of it is gone from the environment in a few months.)        
+
+The atomic energy agency has stressed that the data from Iitate are just a spot reading and that concentrations of cesium in the region vary widely.        
+
+But experts say that illustrates part of the problem that Japan now faces. Much more measuring is needed to understand the extent of radiation and whether areas need to be decontaminated.        
+
+It will be very expensive just to determine which areas are habitable after decontamination, said an official with an American company that works on radiation cleanup, who spoke on the condition of anonymity because of the delicate nature of his business contacts.        
+
+And such costs may pale in comparison to the actual costs of cleanup. If there is extensive contamination of soil, for instance, one likely cleanup method would be to scoop up the top three or four inches and cart it to a safe disposal site. It&rsquo;s a simple method, &ldquo;and simpler is generally better when you&rsquo;re looking at technology,&rdquo; Mr. Boing said.        
+
+Even so, depending on the radiation, workers would have to wear protective gear, and chemicals might be applied to keep radioactive dust from spreading.        
+
+To reduce costs at Chernobyl, some of the less contaminated soil was dumped in a pit on the site rather than being hauled away, said Ms. Yassif, who is now a biophysicist studying at the University of California, Berkeley. But that should not be done in agricultural areas, she said, because the cesium can taint crops.        
+
+Dan Coyne, a vice president with CH2M-WG Idaho, which is cleaning up an Energy Department site in that state, said that given the uncertainty at Fukushima, one approach might be to spray a chemical on the soil that would prevent the cesium from migrating further. &ldquo;Go and put a fixative on it, control the area, and save the remediation of that for a time when it fits your priorities,&rdquo; he said.        
+
+If buildings and roads need to be decontaminated, that could be accomplished by other relatively simple methods like wiping, power-washing or steam-cleaning, unless the cesium is deep.        
+
+And because waste removal and storage are among the most expensive elements in any cleanup, Ms. Yassif said, the general goal is &ldquo;to remove as much of the radioactive waste as you can in as small a volume as possible.&rdquo;        

@@ -1,0 +1,54 @@
+
+TOKYO &mdash; Japanese officials struggled through the day on Tuesday to explain why it had taken them a month to disclose large-scale releases of radioactive material in mid-March at a crippled nuclear power plant, as the government and an electric utility disagreed on the extent of continuing problems there.        
+
+The government announced Tuesday morning that it had raised its rating of the severity of the accident at the Fukushima Daiichi Nuclear Power Station to 7, the worst on an international scale, from 5. Officials said that the reactor had released one-tenth as much radioactive material as the Chernobyl accident in 1986, but still qualified as a 7 according to a complex formula devised by the International Atomic Energy Agency.        
+
+Japan&rsquo;s new assessment was based largely on computer models showing very heavy emissions of radioactive iodine and cesium from March 14 to 16, just after the earthquake and tsunami rendered the plant&rsquo;s emergency cooling system inoperative. The nearly monthlong delay in acknowledging the extent of these emissions is a fresh example of confused data and analysis from the Japanese, and put the authorities on the defensive about whether they have delayed or blocked the release of information to avoid alarming the public.        
+
+Seiji Shiroya, a commissioner of Japan&rsquo;s Nuclear Safety Commission, an independent government panel that oversees the country&rsquo;s nuclear industry, said that the government had delayed issuing data on the extent of the radiation releases because of concern that the margins of error had been large in initial computer models. But he also suggested a public policy reason for having kept quiet.        
+
+&ldquo;Some foreigners fled the country even when there appeared to be little risk,&rdquo; he said. &ldquo;If we immediately decided to label the situation as Level 7, we could have triggered a panicked reaction.&rdquo;        
+
+The Japanese media, which has a reputation for passivity but has become more aggressive in response to public unhappiness about the nuclear accident, questioned government leaders through the day about what the government knew about the accident and when it knew it.        
+
+Prime Minister Naoto Kan gave a nationally televised speech and press conference in the early evening to call for national rebuilding, but ended up defending his government&rsquo;s handling of information about the accident.        
+
+&ldquo;What I can say for the information I obtained &mdash; of course the government is very large, so I don&rsquo;t have all the information &mdash; is that no information was ever suppressed or hidden after the accident,&rdquo; he said. &ldquo;There are various ways of looking at this, and I know there are opinions saying that information could have been disclosed faster. However, as the head of the government, I never hid any information because it was inconvenient for us.&rdquo;        
+
+Junichi Matsumoto, a senior nuclear power executive from the plant&rsquo;s operator, the Tokyo Electric Power Company, fanned public fears about radiation when he said at a separate news conference on Tuesday morning that the radiation release from Daiichi could, in time, surpass levels seen in 1986.        
+
+&ldquo;The radiation leak has not stopped completely, and our concern is that it could eventually exceed Chernobyl,&rdquo; Mr. Matsumoto said.        
+
+But Hidehiko Nishiyama, deputy director general of Japan&rsquo;s nuclear regulator, the Nuclear and Industrial Safety Agency, said in an interview on Tuesday evening that he did not know how the company had come up with its estimate. &ldquo;I cannot understand their position,&rdquo; he said.        
+
+He speculated that Tokyo Electric was being &ldquo;prudent and thinking about the worst-case scenario,&rdquo; adding, &ldquo;I think they don&rsquo;t want to be seen as optimistic.&rdquo;        
+
+Mr. Nishiyama said that his agency did not expect another big escape of radiation from Daiichi, saying that &ldquo;almost all&rdquo; the material that is going to escape has already come out. He said that the rate of radiation release had peaked in the early days after the March 11 earthquake, and that the rate of radiation had dropped by 90 percent since then.        
+
+The peak release in emissions of radioactive particles took place following hydrogen explosions at three reactors, as technicians desperately tried to pump in seawater to keep the uranium fuel rods cool, and bled radioactive gas from the reactors in order to make room for the seawater.        
+
+Mr. Nishiyama took pains to say &mdash; and other nuclear experts agreed &mdash; that the Japanese accident posed fewer health risks than Chernobyl.        
+(Page 2 of 2)
+In the Soviet-era accident at Chernobyl, a burning graphite reactor pushed radioactive particles high into the atmosphere and downwind across Europe. The Japanese accident has mostly produced radioactive liquid runoff into the ocean and low-altitude radioactive particles that have frequently blown out into the ocean and fallen into the water as well.        
+
+The Nuclear Safety Commission ordered the use of a computer model called Speedi &mdash; short for System for Prediction of Environmental Emergency Dose Information &mdash; to calculate the amount of radiation released from the plant, said Mr. Shiroya, the commissioner on the safety agency, who is also the former director of the Research Reactor Institute at Kyoto University.        
+
+To use the model, scientists enter radiation measurements from various distances from a nuclear accident. The model produces an estimate of the radioactive material escaping at the source of the accident.        
+
+Speaking at a news conference, Mr. Shiroya said those calculations were complex, and it was only recently that researchers had been able to narrow down the amount to within an acceptable margin of error.        
+
+&ldquo;At first, the calculations could have been off by digits,&rdquo; Mr. Shiroya said. &ldquo;It was only when there was certainty that the margin of error was within two to three times that we made an announcement,&rdquo; he said, later adding, &ldquo;I do not think that there was any delay.&rdquo;        
+
+Even so, some people involved in the energy industry have been hearing about the results of the Speedi calculations for days. A senior executive said in a telephone interview on April 4 that he had been told that the Speedi model suggested that radioactive materials escaping the Daiichi complex were much higher than Japanese officials had publicly acknowledged, and perhaps as high as half of the releases from Chernobyl.        
+
+Mr. Nishiyama and Mr. Shiroya said separately on Tuesday that that estimate had been wrong. But their two government agencies also released different figures for the level of emissions so far, and there appeared to be a degree of supposition embedded in the numbers.        
+
+Mr. Nishiyama&rsquo;s agency said that emissions totaled 370,000 terabecquerels; a terabecquerel is a trillion becquerels. The agency&rsquo;s figure is 20 percent of the former Soviet Union&rsquo;s official estimate of emissions from Chernobyl.        
+
+But most experts say that the true emissions from Chernobyl were 1.5 to 2.5 times as high as the Soviet Union acknowledged. Mr. Nishiyama&rsquo;s agency appears to have assumed that true emissions from Chernobyl were twice the official figure, and so calculated that the current nuclear accident had released 10 percent as much as Chernobyl.        
+
+Mr. Nishiyama&rsquo;s agency is part of the Ministry of Economy, Trade and Industry, which promotes the use of nuclear power. Mr. Shiroya&rsquo;s commission, which is independent from nuclear power operators and their equipment providers, issued an estimate that emissions totaled 630,000 terabecquerels.        
+
+Although Mr. Shiroya did not provide a comparison to Chernobyl, that works out to 34 percent of the official Soviet estimate of emissions and 17 percent of the unofficial higher estimate.        
+
+Mr. Shiroya also said there was a threefold margin for error involved. The outside estimates of total releases would range from as low as 6 percent to as high as 51 percent of the unofficial totals from Chernobyl.        

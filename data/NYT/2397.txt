@@ -1,0 +1,26 @@
+
+Researchers studying the various dialects of Japanese have concluded that all are descended from a founding language taken to the Japanese islands about 2,200 years ago. The finding sheds new light on the origin of the Japanese people, suggesting that their language is descended from that of the rice-growing farmers who arrived in Japan from the Korean Peninsula, and not from the hunter-gatherers who first inhabited the islands some 30,000 years ago.        
+
+The result provides support for a wider picture, controversial among linguists, that the distribution of many language families today reflects the spread of agriculture in the distant past when farming populations, carrying their languages with them, grew in numbers and expanded at the expense of hunter-gatherers. Under this theory, the Indo-European family of languages, which includes English, was spread by the first farmers who expanded into Europe from the Middle East some 8,000 years ago, largely replacing the existing population of hunter-gatherers.        
+
+In the case of Japan, archaeologists have found evidence for two waves of migrants, a hunter-gatherer people who created the Jomon culture and wet rice farmers who left remains known as the Yayoi culture.        
+
+The Jomon people arrived in Japan before the end of the last ice age, via land bridges that joined Japan to Asia&rsquo;s mainland. They fended off invaders until about 2,400 years ago when the wet rice agriculture developed in southern China was adapted to Korea&rsquo;s colder climate.        
+
+Several languages seem to have been spoken on the Korean Peninsula at this time, and that of the Yayoi people is unknown. The work of two researchers at the University of Tokyo, Sean Lee and Toshikazu Hasegawa, now suggests that the origin of Japonic &mdash; the language family that includes Japanese and Ryukyuan, spoken in the Ryukyu island chain south of Japan &mdash; coincides with the arrival of the Yayoi.        
+
+The finding, if confirmed, indicates that the Yayoi people took Japonic to Japan, but leaves unresolved the question of where in Asia the Yayoi culture or Japonic language originated before arriving in the Korean Peninsula.        
+
+Mr. Lee is a graduate student studying language and the mind, not a historical linguist. He has used a statistical tree-drawing method that other biologists have applied successfully to language origins, despite some linguists&rsquo; skepticism. The method, called Bayesian phylogeny, depends on having a computer draw a large number of possible trees and sampling them to find the most probable. Each language is represented by a 200-word vocabulary composed of words known to change very slowly.        
+
+If any fork in the tree can be linked to a historical event, all the other branch points can be dated. In this case, Mr. Lee knew dates for Old Japanese, Middle Japanese, and the split between the Kyoto and Tokyo dialects that began in 1603 A.D. when the capital was moved from Kyoto to Edo, the early name for Tokyo.        
+
+Mr. Lee reasoned that Japanese would have originated with the Jomon if the root of the tree turned out to be very ancient, but with the Yayoi culture if recent. The computer&rsquo;s date of 2,182 years ago for the origin of the tree fits reasonably well with the archaeological dates for the Yayoi culture, he reported Tuesday in The Proceedings of the Royal Society.        
+
+John B. Whitman, an expert on Japanese linguistics who works at the National Institute for Japanese Language and Linguistics, in Tokyo, and at Cornell University, called the new finding &ldquo;solid and reasonable,&rdquo; although the date of the Yayoi culture, he said, has now been pushed back to around 3,000 years after a recalibration of radiocarbon dates. That would open an 800-year gap with Mr. Lee&rsquo;s date but not necessarily change his conclusion.        
+
+The question of Japanese origins has had political consequences, with the link to the Yayoi culture having been invoked to justify the annexation of Korea and Manchuria before World War II. After the war, the link with the Jomon culture was emphasized.        
+
+Quentin Atkinson, an expert on language phylogeny at the University of Auckland, in New Zealand, said that Mr. Lee&rsquo;s time scale was plausible but that if Japonic had spread through an agriculturally driven population expansion, his language tree should be much bushier at its root. Mr. Lee said that such earlier versions of Japanese might have disappeared when the island was politically unified about 1,000 years ago.        
+
+Genetic studies have suggested interbreeding between the Yayoi and Jomon people, with the Jomon contribution to modern Japanese being as much as 40 percent. Apparently the Yayoi language prevailed, along with the agricultural technology.        

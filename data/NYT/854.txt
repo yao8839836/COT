@@ -1,0 +1,50 @@
+
+WASHINGTON &mdash;  Days after Facebook and Twitter added fuel to a revolt in Egypt, the Obama administration on Tuesday announced a new policy on Internet freedom, intended to help people get around barriers in cyberspace while making it harder for autocratic governments to use the same technology to repress dissent.        
+
+&ldquo;The United States continues to help people in oppressive Internet environments get around filters, stay one step ahead of the censors, the hackers and the thugs who beat them up or imprison them for what they say online,&rdquo; said Secretary of State Hillary Rodham Clinton, laying out the policy in a speech at George Washington University.        
+
+The new policy, a year in the making, had been bogged down by fierce debates over which projects it should support, and even more basically, whether to view the Internet primarily as a weapon to topple repressive regimes or as a tool that autocrats can use to root out and crush dissent.        
+
+Mrs. Clinton defended an expansive approach that embraces a variety of tools for responding to threats to Internet freedom.        
+
+&ldquo;Some have criticized us for not pouring funding into a single technology &mdash; but there is no silver bullet in the struggle against Internet repression,&rdquo; she said. &ldquo;There&rsquo;s no &lsquo;app&rsquo; for that.&rdquo;        
+
+She added, later in the speech: &ldquo;We support multiple tools, so if repressive governments figure out how to target one, others are available. And we invest in the cutting edge because we know that repressive governments are constantly innovating their methods of repression.&rdquo;        
+
+Thus, in the 2009 protest movement in Iran, demonstrators used Web sites to organize marches and distribute galvanizing cellphone videos of violence by paramilitary forces; but then, said Mrs. Clinton, &ldquo;the Revolutionary Guard stalked members of the green movement by tracking their cellphones.&rdquo;        
+
+Similarly, social networks have been used by both protesters and governments in the uprisings in Tunisia, Egypt and other Arab countries, she said.        
+
+The State Department plans to finance programs like circumvention services, which enable users to evade Internet firewalls, and training for human rights workers on how to secure their e-mail from surveillance or wipe incriminating data from cellphones if they are detained by the police. The department has also inaugurated Twitter feeds in Arabic and Persian, and soon will add others in Chinese, Russian and Hindi.        
+
+Though the new policy was on the drawing board for months, it has new urgency in light of the turmoil in the Arab world, because it will be part of a larger debate over how the United States weighs its alliances with entrenched leaders against support for the young people inspired by the events in Tunisia and Egypt.        
+
+Administration officials say the emphasis on a broad array of projects &mdash; hotly disputed by some technology experts and human rights activists &mdash; reflects their view that technology can be a force that leads to democratic change, but cannot by itself bring down repressive regimes.        
+
+&ldquo;People have a view that technology will make us free,&rdquo; said Michael H. Posner, the assistant secretary of state for democracy, human rights and labor. &ldquo;No, people will make us free.&rdquo;        
+
+Critics say the administration has held back $30 million in Congressional financing that could have gone to circumvention technology, a proven method that allows Internet users to evade government firewalls by routing their traffic through proxy servers in other countries.        
+
+Some of these services have received modest financing from the government, but their backers say they need much more to install networks capable of handling millions of users in China, Iran and other countries.        
+
+A report by the Republican minority of the Senate Foreign Relations Committee, which was to be released Tuesday, said the State Department&rsquo;s performance was so inadequate that the job of financing Internet freedom initiatives &mdash; at least those related to China &mdash; should be moved to another agency, the Broadcasting Board of Governors, which oversees Voice of America and Radio Free Europe.        
+
+There are other tensions in the State Department&rsquo;s agenda: It champions the free flow of information, except when it is in secret departmental cables made public by WikiLeaks; it wants to help Chinese citizens circumvent their government&rsquo;s Internet firewall, but is leery of one of the most popular services for doing so, which is sponsored by Falun Gong, a religious group outlawed by Beijing as an evil cult.        
+
+Mrs. Clinton tried to reconcile one of those tensions. She described the WikiLeaks disclosures as &ldquo;an act of theft&rdquo; of sensitive government documents whose publication made it far harder, she said, for the United States to protect its security or promote human rights and democracy around the world. &ldquo;WikiLeaks does not challenge our commitment to Internet freedom,&rdquo; she said.        
+
+The State Department has received 68 proposals for nearly six times the $30 million in available funds. Among the kinds of things that excite officials are &ldquo;circuit riders,&rdquo; experts who tour Internet cafes in Myanmar teaching people how to set up secure e-mail accounts, and new ways of dealing with denial-of-service attacks.        
+
+The progress does not satisfy critics.        
+
+&ldquo;The department&rsquo;s failure to follow Congressional intent created the false impression among Iranian demonstrators that the regime had the power to disrupt access to Facebook and Twitter,&rdquo; said Michael J. Horowitz, a senior fellow at the Hudson Institute, who lobbies on behalf of the Global Internet Freedom Consortium, a circumvention service with ties to Falun Gong.        
+
+Mr. Horowitz has organized demonstrations of the service for legislators, journalists and others. On Jan. 27, the day before the Egyptian government cut off access to the Internet, he said there were more than 7.8 million page views by Egyptians on UltraSurf, one of two consumer services under the umbrella of the consortium. That was a huge increase from only 76,000 on Jan. 22.        
+
+The trouble, Mr. Horowitz said, is that UltraSurf and its sister service, Freegate, do not have enough capacity to handle sudden sharp increases in use during political crises. That causes the speed to slow to a crawl, which discourages users.        
+
+And in Egypt, by shutting down the Internet completely, the authorities were able to make such systems moot.        
+
+Mrs. Clinton acknowledged the difficulties ahead at a time when, she said, the number of global Internet users could swell by 5 billion within 20 years.        
+
+&ldquo;We are playing for the long game,&rdquo; she said.        

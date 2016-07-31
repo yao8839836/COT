@@ -1,0 +1,16 @@
+
+SEOUL, South Korea &mdash; Forty Web sites in South Korea were attacked by a computer virus on Friday, including the official sites of the presidential Blue House, the Foreign Ministry, the country&rsquo;s biggest bank, the country&rsquo;s two largest search engines, a major online auction house and some American and Korean military sites.        
+
+It was not immediately clear who was behind the attack, but the National Police Agency is investigating the assault, which was discovered by AhnLab, an Internet security firm in Seoul.        
+
+Computer analysts said the problems amounted to a so-called denial of service attack, in which multiple computers infected by a software virus try to access targeted Web sites simultaneously. That can overwhelm the sites with a surge of traffic that crashes their servers.        
+
+WordPress, one of the largest blog-hosting sites on the Internet, was attacked this way on Thursday, the company said.        
+
+A South Korean government official said Friday that there had been &ldquo;no major damage at all&rdquo; to computer systems at the Blue House, the executive office and official residence of South Korea&rsquo;s president.        
+
+&ldquo;We were attacked, but it was defended,&rdquo; the official said, noting that the Blue House and other agencies had installed security countermeasures after a major cyberattack on South Korean government sites in July 2009. He said the effect of that attack had been &ldquo;quite chaotic.&rdquo;        
+
+An AhnLab spokesman, Song Chang-min, said the two attacks had similarities, including the targeted sites. AhnLab discovered the virus on Thursday and quickly distributed a free antivirus solution for downloading.        
+
+&ldquo;This wasn&rsquo;t as serious as 2009, but it still makes servers go down,&rdquo; Mr. Song said. &ldquo;Some Web sites going down for even a minute or two, especially commercial sites, can be a big problem. It can be critical.&rdquo;        

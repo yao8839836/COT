@@ -1,0 +1,31 @@
+
+BEIJING &mdash; China&rsquo;s official Communist Party newspaper issued a caustic response on Monday to Google&rsquo;s charge that Chinese hackers had taken aim at influential users of its Gmail service, calling the accusations &ldquo;political gaming&rdquo; aimed at fomenting new discord between the Beijing and Washington governments.        
+
+The newspaper, People&rsquo;s Daily, published a front-page editorial in Monday&rsquo;s international editions that also suggested that Google&rsquo;s actions could cost it credibility in the business world.        
+
+&ldquo;Many international bystanders believe that Google&rsquo;s charge is thickly tainted with political colors, and one can&rsquo;t dismiss the fact that Google is taking advantage and provoking new Sino-American Internet security disputes with sinister intentions,&rdquo; the editorial stated. &ldquo;Today&rsquo;s Google really makes one wring one&rsquo;s hands. What was once a model of leading Internet innovation has now become a political tool for slandering other countries.&rdquo;        
+
+&ldquo;Once the international winds change,&rdquo; the editorial later added, &ldquo;Google might become a political sacrifice and might be discarded by the market.&rdquo;        
+
+Google declined to officially comment on the editorial, but a spokesman responded to the article&rsquo;s headline: &ldquo;Google, What Do You Want?&rdquo; What Google wanted, he said, was to protect its users and help them stay safe online, which is why it went public with the hacking allegations.&nbsp;        
+
+&ldquo;We think users should be aware of this disturbing campaign,&rdquo; he said.        
+
+Google officials had said last Wednesday that hackers in Jinan, a coastal city in eastern China&rsquo;s Shandong Province, had sought to gain access to the Gmail accounts of hundreds of American government officials, Chinese political activists, military personnel, journalists and Asian officials. The attacks used a polished version of a rudimentary technique, called spear phishing, to trick recipients into revealing their e-mail passwords. American officials said they had no evidence that any confidential information was breached, or even that many people fell for the attack.        
+
+In January 2010, Google tied hackers in the same city to a more sophisticated and wide-ranging assault on its computer systems. The company has not suggested that the Chinese government was behind those attacks, though speculation to that effect has been widespread, particularly since the company&rsquo;s services have been plagued with unexplained disruptions.        
+
+In the days after Google&rsquo;s latest accusation, Chinese users of Gmail and the popular Google Maps service have seen connections slow to a crawl, while the same services used through private networks have remained trouble-free.        
+
+Chinese officials have attributed Google&rsquo;s service problems to technical issues that do not involve the government, and they have denied any government role in hacking Google computers or e-mail accounts. On Thursday, a Foreign Ministry spokesperson called hacking a criminal activity and said that China also suffered attacks by hackers.        
+
+Google has lost significant share of the market over the last few years, as it suffered both hacking attacks and government censorship of its Web searches. The company moved its search operations last year to uncensored servers in Hong Kong.        
+
+After commanding more than a third of China&rsquo;s market for online searches in 2009, Google saw its share decline by the first three months of 2011 to 19.2 percent, a 2 percent drop from the last quarter of 2010, according to the Chinese research firm Analysys International.        
+
+The biggest beneficiary of Google&rsquo;s losses appeared to be Baidu, a Chinese Internet portal.        
+
+China&rsquo;s state-owned mobile-telecommunications companies also have dropped Google&rsquo;s mobile search service for competing products.        
+
+Google nevertheless has said that its revenues from mainland China operations are increasing year over year. The company considers its biggest opportunity in China to be display advertising and selling ads to Chinese companies that appear on Web sites outside China. The company has more than 500 employees in China and hundreds of business partners.        
+Xiyun Yang contributed research from Beijing, and Claire Cain Miller contributed reporting from San Francisco.

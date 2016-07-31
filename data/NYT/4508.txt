@@ -1,0 +1,19 @@
+
+BEIJING &mdash; The main Chinese state television network has deleted from the Internet a video that some foreign military and Internet security analysts say implies China has engaged in hacking attacks on Web sites in the West.        
+
+The video was the July 16 episode of a program on China Central Television 7 called &ldquo;Military Science and Technology.&rdquo; The episode, called &ldquo;The Internet Storm is Coming,&rdquo; was about cyberwarfare.        
+
+This week Western analysts began publicly scrutinizing a sequence that a narrator on the program says shows &ldquo;many Internet attack methods.&rdquo; There is then a demonstration of one method: on the screen, what appears to be a human-operated cursor chooses a target Web site address, then hits a button that says &ldquo;attack.&rdquo;        
+
+Using a software application on screen, the cursor chooses a target Web site under a pull-down menu for &ldquo;Falun Gong Web sites in North America.&rdquo;&nbsp; Falun Gong is a spiritual group that underwent persecution in the late 1990s in China and is now outlawed in the country.        
+
+In the CCTV program, the cursor selects an IP address of 138.26.72.17 as a target. It is a defunct IP address at the University of Alabama. But a screenshot of the page linked to that address that was archived on the Internet in 2000 shows an informational page associated with the Falun Gong. It is unclear who set up the page.        
+
+An online article published on China SignPost on Wednesday by two military analysts, Andrew Erickson and Gabe Collins, said there were questions as to whether the television program was using a mock-up to demonstrate cyberwarfare, or whether it revealed real hacking software and an actual attack. The technology shown was at least a decade old, the authors wrote. But &ldquo;it is significant that an official Chinese state television channel showed even a symbolic representation of a cyberattack, particularly one on entities clearly located in a foreign sovereign nation,&rdquo; they wrote.        
+
+Chinese officials deny repeated assertions by foreign Web security experts and foreign governments that China is the source for many prominent and ambitious attacks.        
+
+The discussion among Western analysts over the July 16 episode and its significance began this week when links to screenshots of the episode circulated on the Internet. By Friday, a video of that episode had been removed from a CCTV Web site that still has other recent episodes of &ldquo;Military Science and Technology.&rdquo;        
+
+CCTV has declined to comment. There has been at least one notable example of the network&rsquo;s using fake footage in a report on the military: In January, it tried to pass off a scene of a fighter jet getting blown to bits in the 1986 movie &ldquo;Top Gun&rdquo; as images of a military training exercise done by the People&rsquo;s Liberation Army.        
+Jeffery DelViscio contributed reporting from New York, and Li Bibo contributed research from Beijing.
