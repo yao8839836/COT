@@ -28,3 +28,9 @@ TechCrunch: file/boc/views(tech).txt
 
 NYT: file/boc/views(NYT).txt
 
+# Implementation
+
+/src/cot/COT.java is the implementation of the first variation (TOT + link + view).
+
+
+
