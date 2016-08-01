@@ -8,3 +8,10 @@ Liang Yao, Yin Zhang, Baogang Wei, Lei Li, Fei Wu, Peng Zhang, and Yali Bian. "C
 3158 TechCrunch blogs are in data/TechCrunch 1 year (3,158 docs)/datablog/.
 
 6778 New York Times 2011 global news are in data/NYT/.
+
+
+# Timestamp
+
+TechCrunch: /data/TechCrunch 1 year (3,158 docs)/time.txt
+
+NYT: /file/boc/time(NYT).txt, also can be found in /file/doclist(NYT)part.txt
