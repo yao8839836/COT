@@ -21,3 +21,10 @@ NYT: /file/boc/time(NYT).txt, also can be found in /file/doclist(NYT)part.txt
 TechCrunch: file/boc/wikified(dense)/
 
 NYT: file/boc/wikified(NYT)/
+
+# Wikipedia articles' view statistics of each month
+
+TechCruch: file/boc/views(tech).txt
+
+NYT: file/boc/views(NYT).txt
+
