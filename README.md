@@ -24,7 +24,7 @@ NYT: file/boc/wikified(NYT)/
 
 # Wikipedia articles' view statistics of each month
 
-TechCruch: file/boc/views(tech).txt
+TechCrunch: file/boc/views(tech).txt
 
 NYT: file/boc/views(NYT).txt
 
